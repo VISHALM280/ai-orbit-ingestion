@@ -22,9 +22,12 @@ def dashboard():
     return f"""
     <!DOCTYPE html>
     <html>
-    <head><title>AI Orbit Data Pipeline Viewer</title></head>
+    <head>
+        <meta charset="utf-8">
+        <title>AI Orbit Data Pipeline Viewer</title>
+    </head>
     <body style="font-family: sans-serif; background: #0d1117; color: #c9d1d9; padding: 40px;">
-        <h1 style="color: #58a6ff;">?? AI Orbit Ingestion Dashboard</h1>
+        <h1 style="color: #58a6ff;">AI Orbit Ingestion Dashboard</h1>
         <p>Total Entities: <strong>{len(entities)}</strong> | Relationships: <strong>{len(relationships)}</strong></p>
         <p>
             <a href="/api/entities" style="color: #58a6ff;" target="_blank">/api/entities</a> | 
