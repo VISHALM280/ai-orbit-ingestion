@@ -1,0 +1,4933 @@
+[
+  {
+    "id": "ddc66c7b-c873-4e02-bddb-40b3e891c617",
+    "entity_type": "Companies",
+    "name": "OpenAI",
+    "description": "AI research and deployment company behind ChatGPT and GPT-4.",
+    "url": "https://openai.com",
+    "categories": [
+      "AI Research"
+    ],
+    "source": {
+      "name": "Official Site",
+      "url": "https://openai.com"
+    },
+    "metadata": {
+      "founding_year": 2015,
+      "industry_sector": "AI Research",
+      "headquarters": "USA"
+    }
+  },
+  {
+    "id": "b9db04f5-4a3f-428c-9178-e4186430dce5",
+    "entity_type": "Companies",
+    "name": "Anthropic",
+    "description": "AI safety and research company behind Claude.",
+    "url": "https://anthropic.com",
+    "categories": [
+      "AI Research"
+    ],
+    "source": {
+      "name": "Official Site",
+      "url": "https://anthropic.com"
+    },
+    "metadata": {
+      "founding_year": 2015,
+      "industry_sector": "AI Research",
+      "headquarters": "USA"
+    }
+  },
+  {
+    "id": "ecb27f76-7a88-48f7-af5e-4467da32e925",
+    "entity_type": "Companies",
+    "name": "Meta",
+    "description": "Tech company developing Llama open-weight models.",
+    "url": "https://meta.com",
+    "categories": [
+      "AI Research"
+    ],
+    "source": {
+      "name": "Official Site",
+      "url": "https://meta.com"
+    },
+    "metadata": {
+      "founding_year": 2015,
+      "industry_sector": "AI Research",
+      "headquarters": "USA"
+    }
+  },
+  {
+    "id": "d82d2f27-1183-4fd4-bb85-126907ff674c",
+    "entity_type": "Companies",
+    "name": "Google",
+    "description": "Develops Gemini and AI technology platforms.",
+    "url": "https://google.com",
+    "categories": [
+      "AI Research"
+    ],
+    "source": {
+      "name": "Official Site",
+      "url": "https://google.com"
+    },
+    "metadata": {
+      "founding_year": 2015,
+      "industry_sector": "AI Research",
+      "headquarters": "USA"
+    }
+  },
+  {
+    "id": "c5f0deda-8b4a-4d92-8533-0e73df89b6aa",
+    "entity_type": "Companies",
+    "name": "Hugging Face",
+    "description": "Platform for sharing AI models, datasets, and apps.",
+    "url": "https://huggingface.co",
+    "categories": [
+      "AI Research"
+    ],
+    "source": {
+      "name": "Official Site",
+      "url": "https://huggingface.co"
+    },
+    "metadata": {
+      "founding_year": 2015,
+      "industry_sector": "AI Research",
+      "headquarters": "USA"
+    }
+  },
+  {
+    "id": "72218773-1820-4087-96ed-b411826c2643",
+    "entity_type": "Repositories",
+    "name": "openclaw",
+    "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. \ud83e\udd9e",
+    "url": "https://github.com/openclaw/openclaw",
+    "categories": [
+      "TypeScript"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "stars": 386515,
+      "provider": "openclaw"
+    }
+  },
+  {
+    "id": "4c29295c-6c64-42cc-9ecf-5e93fa101c10",
+    "entity_type": "Repositories",
+    "name": "superpowers",
+    "description": "An agentic skills framework & software development methodology that works.",
+    "url": "https://github.com/obra/superpowers",
+    "categories": [
+      "Shell"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "stars": 272955,
+      "provider": "obra"
+    }
+  },
+  {
+    "id": "72a95cf6-33d9-47e7-8b6f-e02d1bb1e390",
+    "entity_type": "Repositories",
+    "name": "hermes-agent",
+    "description": "The agent that grows with you",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "categories": [
+      "Python"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "stars": 231706,
+      "provider": "NousResearch"
+    }
+  },
+  {
+    "id": "35961fa3-ae95-4365-a18a-e1e542467d54",
+    "entity_type": "Repositories",
+    "name": "n8n",
+    "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "url": "https://github.com/n8n-io/n8n",
+    "categories": [
+      "TypeScript"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "stars": 200945,
+      "provider": "n8n-io"
+    }
+  },
+  {
+    "id": "10bcf8a2-57bc-4880-8ee3-675f5f0ae73c",
+    "entity_type": "Repositories",
+    "name": "AutoGPT",
+    "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "categories": [
+      "Python"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "stars": 186648,
+      "provider": "Significant-Gravitas"
+    }
+  },
+  {
+    "id": "ca0aea2d-d1e6-4f41-8b9b-5f257d0a40b0",
+    "entity_type": "Repositories",
+    "name": "firecrawl",
+    "description": "The context API to search, scrape, and interact with the web at scale. \ud83d\udd25",
+    "url": "https://github.com/firecrawl/firecrawl",
+    "categories": [
+      "TypeScript"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "stars": 168327,
+      "provider": "firecrawl"
+    }
+  },
+  {
+    "id": "a251d628-d75c-4cf6-afeb-65fb75d58312",
+    "entity_type": "Repositories",
+    "name": "prompts.chat",
+    "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source \u2014 self-host for your organization with complete privacy.",
+    "url": "https://github.com/f/prompts.chat",
+    "categories": [
+      "HTML"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "stars": 167290,
+      "provider": "f"
+    }
+  },
+  {
+    "id": "8f23b93c-aceb-42d9-a051-1034607b439e",
+    "entity_type": "Repositories",
+    "name": "stable-diffusion-webui",
+    "description": "Stable Diffusion web UI",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "categories": [
+      "Python"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "stars": 164533,
+      "provider": "AUTOMATIC1111"
+    }
+  },
+  {
+    "id": "02a25499-a6f2-40c9-b1a7-c334d4bf221b",
+    "entity_type": "Repositories",
+    "name": "JavaGuide",
+    "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "categories": [
+      "JavaScript"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "stars": 157821,
+      "provider": "Snailclimb"
+    }
+  },
+  {
+    "id": "20722d84-da9e-4855-b752-a4cb3443c36d",
+    "entity_type": "Repositories",
+    "name": "dify",
+    "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
+    "url": "https://github.com/langgenius/dify",
+    "categories": [
+      "TypeScript"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "stars": 152666,
+      "provider": "langgenius"
+    }
+  },
+  {
+    "id": "0ef844fc-b392-46dc-b5e4-d1279334e2a0",
+    "entity_type": "Repositories",
+    "name": "open-webui",
+    "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+    "url": "https://github.com/open-webui/open-webui",
+    "categories": [
+      "Python"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "stars": 148984,
+      "provider": "open-webui"
+    }
+  },
+  {
+    "id": "3bcc85b9-4a9b-4d50-8caf-d6b17ee6afc0",
+    "entity_type": "Repositories",
+    "name": "langchain",
+    "description": "The agent engineering platform.",
+    "url": "https://github.com/langchain-ai/langchain",
+    "categories": [
+      "Python"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "stars": 144372,
+      "provider": "langchain-ai"
+    }
+  },
+  {
+    "id": "b69e9d53-5fde-4ad6-b285-af48d242c1d0",
+    "entity_type": "Repositories",
+    "name": "system-prompts-and-models-of-ai-tools",
+    "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+    "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+    "categories": [
+      "Python"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "stars": 142875,
+      "provider": "x1xhlol"
+    }
+  },
+  {
+    "id": "a9a18843-ea84-4686-93ec-b7315d6fbe95",
+    "entity_type": "Repositories",
+    "name": "spec-kit",
+    "description": "\ud83d\udcab Toolkit to help you get started with Spec-Driven Development",
+    "url": "https://github.com/github/spec-kit",
+    "categories": [
+      "Python"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "stars": 129642,
+      "provider": "github"
+    }
+  },
+  {
+    "id": "d81f3e70-eb14-47a6-827c-6a5f7cdcf3b5",
+    "entity_type": "Repositories",
+    "name": "ComfyUI",
+    "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+    "url": "https://github.com/Comfy-Org/ComfyUI",
+    "categories": [
+      "Python"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "stars": 128014,
+      "provider": "Comfy-Org"
+    }
+  },
+  {
+    "id": "6ccfc443-cbbc-4653-b7f9-9199de301a4c",
+    "entity_type": "Repositories",
+    "name": "generative-ai-for-beginners",
+    "description": "21 Lessons, Get Started Building with Generative AI",
+    "url": "https://github.com/microsoft/generative-ai-for-beginners",
+    "categories": [
+      "Jupyter Notebook"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "stars": 117909,
+      "provider": "microsoft"
+    }
+  },
+  {
+    "id": "98586388-a397-4e1b-824c-55f53c306c11",
+    "entity_type": "Repositories",
+    "name": "supabase",
+    "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+    "url": "https://github.com/supabase/supabase",
+    "categories": [
+      "TypeScript"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "stars": 108077,
+      "provider": "supabase"
+    }
+  },
+  {
+    "id": "c0ce00be-5cbf-4dea-ba5f-7f1a31acafb4",
+    "entity_type": "Repositories",
+    "name": "gemini-cli",
+    "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+    "url": "https://github.com/google-gemini/gemini-cli",
+    "categories": [
+      "TypeScript"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "stars": 106535,
+      "provider": "google-gemini"
+    }
+  },
+  {
+    "id": "790c9acf-0216-45fe-ab90-eab934a44d3e",
+    "entity_type": "Repositories",
+    "name": "LLMs-from-scratch",
+    "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+    "url": "https://github.com/rasbt/LLMs-from-scratch",
+    "categories": [
+      "Jupyter Notebook"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "stars": 102814,
+      "provider": "rasbt"
+    }
+  },
+  {
+    "id": "3074e796-255a-4835-9012-dfb71ccc1c41",
+    "entity_type": "Repositories",
+    "name": "caveman",
+    "description": "\ud83e\udea8 why use many token when few token do trick \u2014 Claude Code skill that cuts 65% of tokens by talking like caveman",
+    "url": "https://github.com/JuliusBrussee/caveman",
+    "categories": [
+      "Go"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "stars": 98608,
+      "provider": "JuliusBrussee"
+    }
+  },
+  {
+    "id": "129c0e17-c645-49f9-a72d-a4bcc3b60383",
+    "entity_type": "Repositories",
+    "name": "Deep-Live-Cam",
+    "description": "real time face swap and one-click video deepfake with only a single image",
+    "url": "https://github.com/hacksider/Deep-Live-Cam",
+    "categories": [
+      "Python"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "stars": 95979,
+      "provider": "hacksider"
+    }
+  },
+  {
+    "id": "086b02a5-b49c-4195-9d50-118880b214e8",
+    "entity_type": "Repositories",
+    "name": "awesome-mcp-servers",
+    "description": "A collection of MCP servers.",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers",
+    "categories": [
+      "Python"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "stars": 92462,
+      "provider": "punkpeye"
+    }
+  },
+  {
+    "id": "9a7267ad-75bd-46e4-911e-4aecdf1f6e9c",
+    "entity_type": "Repositories",
+    "name": "claude-mem",
+    "description": "Persistent Context Across Sessions for Every Agent \u2013 Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+    "url": "https://github.com/thedotmack/claude-mem",
+    "categories": [
+      "JavaScript"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "stars": 90936,
+      "provider": "thedotmack"
+    }
+  },
+  {
+    "id": "a9658807-7d2f-49f0-92c0-8f2383defa9d",
+    "entity_type": "Repositories",
+    "name": "ragflow",
+    "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+    "url": "https://github.com/infiniflow/ragflow",
+    "categories": [
+      "Go"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "stars": 88647,
+      "provider": "infiniflow"
+    }
+  },
+  {
+    "id": "1fa99ece-5bca-4a06-ad8f-6418e0e88367",
+    "entity_type": "Repositories",
+    "name": "worldmonitor",
+    "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+    "url": "https://github.com/koala73/worldmonitor",
+    "categories": [
+      "TypeScript"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "stars": 82521,
+      "provider": "koala73"
+    }
+  },
+  {
+    "id": "af709d29-5afe-4b97-b788-939f4693fe82",
+    "entity_type": "Repositories",
+    "name": "lobehub",
+    "description": "\ud83e\udd2f LobeHub is your Chief Agent Operator, organizing your agents into 7\u00d724 operations by hiring, scheduling, and reporting on your entire AI team.",
+    "url": "https://github.com/lobehub/lobehub",
+    "categories": [
+      "TypeScript"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "stars": 81761,
+      "provider": "lobehub"
+    }
+  },
+  {
+    "id": "472e97ac-83c2-4045-989f-dbb8a57b2469",
+    "entity_type": "Repositories",
+    "name": "netdata",
+    "description": "The fastest path to AI-powered full stack observability, even for lean teams.",
+    "url": "https://github.com/netdata/netdata",
+    "categories": [
+      "Go"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "stars": 80208,
+      "provider": "netdata"
+    }
+  },
+  {
+    "id": "16240b55-fee7-4b3d-b2fd-548323c4bf68",
+    "entity_type": "Repositories",
+    "name": "deer-flow",
+    "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+    "url": "https://github.com/bytedance/deer-flow",
+    "categories": [
+      "Python"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "stars": 80128,
+      "provider": "bytedance"
+    }
+  },
+  {
+    "id": "f4734451-19d1-4169-9545-25f07146c580",
+    "entity_type": "Repositories",
+    "name": "taste-skill",
+    "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+    "url": "https://github.com/Leonxlnx/taste-skill",
+    "categories": [
+      "JavaScript"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "stars": 77210,
+      "provider": "Leonxlnx"
+    }
+  },
+  {
+    "id": "72946bcc-5e3e-47cc-a571-f0b6e36f9020",
+    "entity_type": "Repositories",
+    "name": "Scrapling",
+    "description": "\ud83d\udd77\ufe0f An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
+    "url": "https://github.com/D4Vinci/Scrapling",
+    "categories": [
+      "Python"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "stars": 74659,
+      "provider": "D4Vinci"
+    }
+  },
+  {
+    "id": "c379038a-89ff-4bba-b93e-d7e5ab292194",
+    "entity_type": "Repositories",
+    "name": "LlamaFactory",
+    "description": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)",
+    "url": "https://github.com/hiyouga/LlamaFactory",
+    "categories": [
+      "Python"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "stars": 74157,
+      "provider": "hiyouga"
+    }
+  },
+  {
+    "id": "ee402b60-32cd-490c-b555-549bf0e376ff",
+    "entity_type": "Repositories",
+    "name": "unsloth",
+    "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
+    "url": "https://github.com/unslothai/unsloth",
+    "categories": [
+      "Python"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "stars": 72910,
+      "provider": "unslothai"
+    }
+  },
+  {
+    "id": "43ffe26c-5329-4d36-b611-bb4ca0a02a2c",
+    "entity_type": "Repositories",
+    "name": "daytona",
+    "description": "Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code",
+    "url": "https://github.com/daytonaio/daytona",
+    "categories": [
+      "Python"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "stars": 71986,
+      "provider": "daytonaio"
+    }
+  },
+  {
+    "id": "064bcbb5-25c3-47aa-bbee-e2cab3b9e5a1",
+    "entity_type": "Repositories",
+    "name": "OpenBB",
+    "description": "Open Data Platform for analysts, quants and AI agents.",
+    "url": "https://github.com/OpenBB-finance/OpenBB",
+    "categories": [
+      "Python"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "stars": 71955,
+      "provider": "OpenBB-finance"
+    }
+  },
+  {
+    "id": "48d75763-1ce6-4b09-9f06-18ac58c890d4",
+    "entity_type": "Repositories",
+    "name": "oh-my-openagent",
+    "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, for your OpenCode",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent",
+    "categories": [
+      "TypeScript"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "stars": 67987,
+      "provider": "code-yeongyu"
+    }
+  },
+  {
+    "id": "9a59a8b4-5757-4787-be08-4ec089c55072",
+    "entity_type": "Repositories",
+    "name": "headroom",
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
+    "url": "https://github.com/headroomlabs-ai/headroom",
+    "categories": [
+      "Python"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "stars": 66581,
+      "provider": "headroomlabs-ai"
+    }
+  },
+  {
+    "id": "97595212-dbd0-40cd-a4ca-4d8c08319469",
+    "entity_type": "Repositories",
+    "name": "OpenSpec",
+    "description": "Spec-driven development (SDD) for AI coding assistants.",
+    "url": "https://github.com/Fission-AI/OpenSpec",
+    "categories": [
+      "TypeScript"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "stars": 65137,
+      "provider": "Fission-AI"
+    }
+  },
+  {
+    "id": "b9690a26-8c95-4e51-a22a-1489f060a617",
+    "entity_type": "Repositories",
+    "name": "AI-For-Beginners",
+    "description": "12 Weeks, 24 Lessons, AI for All!",
+    "url": "https://github.com/microsoft/AI-For-Beginners",
+    "categories": [
+      "Jupyter Notebook"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "stars": 65091,
+      "provider": "microsoft"
+    }
+  },
+  {
+    "id": "8847e5d9-7ebf-48d3-8343-a36f29dade33",
+    "entity_type": "Repositories",
+    "name": "docling",
+    "description": "Get your documents ready for gen AI",
+    "url": "https://github.com/docling-project/docling",
+    "categories": [
+      "Python"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "stars": 64875,
+      "provider": "docling-project"
+    }
+  },
+  {
+    "id": "27e5624d-6c52-4cf4-a599-0aa9483e4d46",
+    "entity_type": "Repositories",
+    "name": "claude-code-best-practice",
+    "description": "from vibe coding to agentic engineering - practice makes claude perfect",
+    "url": "https://github.com/shanraisshan/claude-code-best-practice",
+    "categories": [
+      "HTML"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "stars": 64593,
+      "provider": "shanraisshan"
+    }
+  },
+  {
+    "id": "2db5f0f4-1c09-4404-8c49-81804c4b66de",
+    "entity_type": "Repositories",
+    "name": "career-ops",
+    "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications \u2014 runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity\u2026)",
+    "url": "https://github.com/santifer/career-ops",
+    "categories": [
+      "JavaScript"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "stars": 64129,
+      "provider": "santifer"
+    }
+  },
+  {
+    "id": "4da67e9c-fa86-4b3c-a9d3-08322ec816ed",
+    "entity_type": "Repositories",
+    "name": "mem0",
+    "description": "Universal memory layer for AI Agents",
+    "url": "https://github.com/mem0ai/mem0",
+    "categories": [
+      "Python"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "stars": 63424,
+      "provider": "mem0ai"
+    }
+  },
+  {
+    "id": "c482b6fd-e8d5-4632-a742-0fcd504750d7",
+    "entity_type": "Repositories",
+    "name": "system_prompts_leaks",
+    "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-5.6-Sol, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+    "url": "https://github.com/asgeirtj/system_prompts_leaks",
+    "categories": [
+      "JavaScript"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "stars": 63046,
+      "provider": "asgeirtj"
+    }
+  },
+  {
+    "id": "0306465c-8ac8-41d5-b665-5ebb2cdf5f65",
+    "entity_type": "Repositories",
+    "name": "TrendRadar",
+    "description": "\u2b50AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.\ud83c\udfaf \u544a\u522b\u4fe1\u606f\u8fc7\u8f7d\uff0c\u4f60\u7684 AI \u8206\u60c5\u76d1\u63a7\u52a9\u624b\u4e0e\u70ed\u70b9\u7b5b\u9009\u5de5\u5177\uff01\u805a\u5408\u591a\u5e73\u53f0\u70ed\u70b9 + RSS \u8ba2\u9605\uff0c\u652f\u6301\u5173\u952e\u8bcd\u7cbe\u51c6\u7b5b\u9009\u3002AI \u667a\u80fd\u7b5b\u9009\u65b0\u95fb + AI \u7ffb\u8bd1 + AI \u5206\u6790\u7b80\u62a5\u76f4\u63a8\u624b\u673a\uff0c\u4e5f\u652f\u6301\u63a5\u5165 MCP \u67b6\u6784\uff0c\u8d4b\u80fd AI \u81ea\u7136\u8bed\u8a00\u5bf9\u8bdd\u5206\u6790\u3001\u60c5\u611f\u6d1e\u5bdf\u4e0e\u8d8b\u52bf\u9884\u6d4b\u7b49\u3002\u652f\u6301 Docker \uff0c\u6570\u636e\u672c\u5730/\u4e91\u7aef\u81ea\u6301\u3002\u96c6\u6210\u5fae\u4fe1/\u98de\u4e66/\u9489\u9489/Telegram/\u90ae\u4ef6/ntfy/bark/slack \u7b49\u6e20\u9053\u667a\u80fd\u63a8\u9001\u3002",
+    "url": "https://github.com/sansan0/TrendRadar",
+    "categories": [
+      "Python"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "stars": 61511,
+      "provider": "sansan0"
+    }
+  },
+  {
+    "id": "847b23d1-be4c-496e-aeb6-93ac2c3f82cf",
+    "entity_type": "Repositories",
+    "name": "autogen",
+    "description": "A programming framework for agentic AI",
+    "url": "https://github.com/microsoft/autogen",
+    "categories": [
+      "Python"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "stars": 60461,
+      "provider": "microsoft"
+    }
+  },
+  {
+    "id": "3d082dd8-efa8-43ae-9da3-e801c6ed79ae",
+    "entity_type": "Repositories",
+    "name": "meilisearch",
+    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+    "url": "https://github.com/meilisearch/meilisearch",
+    "categories": [
+      "Rust"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "stars": 58985,
+      "provider": "meilisearch"
+    }
+  },
+  {
+    "id": "3d93cc7d-2bab-4594-8c66-58877146cc50",
+    "entity_type": "Repositories",
+    "name": "mempalace",
+    "description": "The best-benchmarked open-source AI memory system. And it's free.",
+    "url": "https://github.com/MemPalace/mempalace",
+    "categories": [
+      "Python"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "stars": 58417,
+      "provider": "MemPalace"
+    }
+  },
+  {
+    "id": "881ec969-3673-493b-965e-7b0b64fa2005",
+    "entity_type": "Repositories",
+    "name": "private-gpt",
+    "description": "Complete API layer for private AI applications on local models: RAG, skills, tools, MCP, text-to-sql, and more. Works with any OpenAI-compatible inference server.",
+    "url": "https://github.com/zylon-ai/private-gpt",
+    "categories": [
+      "Python"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "stars": 57447,
+      "provider": "zylon-ai"
+    }
+  },
+  {
+    "id": "8a24e8a3-b171-4740-910e-16182247e4a0",
+    "entity_type": "Repositories",
+    "name": "crewAI",
+    "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
+    "url": "https://github.com/crewAIInc/crewAI",
+    "categories": [
+      "Python"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "stars": 57194,
+      "provider": "crewAIInc"
+    }
+  },
+  {
+    "id": "d6b919b5-cc61-4ad9-a9d6-f4cd3821d656",
+    "entity_type": "Repositories",
+    "name": "gpt-engineer",
+    "description": "CLI platform to experiment with codegen. Precursor to: https://lovable.dev",
+    "url": "https://github.com/AntonOsika/gpt-engineer",
+    "categories": [
+      "Python"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "stars": 55139,
+      "provider": "AntonOsika"
+    }
+  },
+  {
+    "id": "e98d9419-980b-408e-b24e-879e6baff26c",
+    "entity_type": "Repositories",
+    "name": "ChatGPT",
+    "description": "\u2744\ufe0f ChatGPT Desktop Application (Mac, Windows and Linux)",
+    "url": "https://github.com/lencx/ChatGPT",
+    "categories": [
+      "Rust"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "stars": 54445,
+      "provider": "lencx"
+    }
+  },
+  {
+    "id": "66e9bb4b-7406-432b-a067-1e8e106aa101",
+    "entity_type": "Repositories",
+    "name": "goose",
+    "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+    "url": "https://github.com/aaif-goose/goose",
+    "categories": [
+      "Rust"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "stars": 52892,
+      "provider": "aaif-goose"
+    }
+  },
+  {
+    "id": "995d2e1e-eac6-4a92-9f39-491897d02bd8",
+    "entity_type": "Repositories",
+    "name": "dbeaver",
+    "description": "Free universal database tool and SQL client",
+    "url": "https://github.com/dbeaver/dbeaver",
+    "categories": [
+      "Java"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "stars": 51451,
+      "provider": "dbeaver"
+    }
+  },
+  {
+    "id": "5f6c6fa1-1496-4b72-9d85-31263ec91148",
+    "entity_type": "Repositories",
+    "name": "voicebox",
+    "description": "The open-source AI voice studio. Clone, dictate, create.",
+    "url": "https://github.com/jamiepine/voicebox",
+    "categories": [
+      "TypeScript"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "stars": 50606,
+      "provider": "jamiepine"
+    }
+  },
+  {
+    "id": "e297ce4b-954a-471c-b005-1b83df85fdc8",
+    "entity_type": "Repositories",
+    "name": "ClickHouse",
+    "description": "ClickHouse\u00ae is a real-time analytics database management system",
+    "url": "https://github.com/ClickHouse/ClickHouse",
+    "categories": [
+      "C++"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "stars": 49287,
+      "provider": "ClickHouse"
+    }
+  },
+  {
+    "id": "111a14a4-8f12-497a-892a-3600031a4e9f",
+    "entity_type": "Repositories",
+    "name": "LocalAI",
+    "description": "LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.",
+    "url": "https://github.com/mudler/LocalAI",
+    "categories": [
+      "Go"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "stars": 48519,
+      "provider": "mudler"
+    }
+  },
+  {
+    "id": "f424cfb9-a278-4b8c-8e06-25ddc8e4c466",
+    "entity_type": "Repositories",
+    "name": "OpenMontage",
+    "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+    "url": "https://github.com/calesthio/OpenMontage",
+    "categories": [
+      "Python"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "stars": 48472,
+      "provider": "calesthio"
+    }
+  },
+  {
+    "id": "69417d48-fdaa-44fb-b90c-f979b5b048d9",
+    "entity_type": "Repositories",
+    "name": "upscayl",
+    "description": "\ud83c\udd99 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.",
+    "url": "https://github.com/upscayl/upscayl",
+    "categories": [
+      "TypeScript"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "stars": 48399,
+      "provider": "upscayl"
+    }
+  },
+  {
+    "id": "25257044-14dc-4704-b2a4-f755b770bf6a",
+    "entity_type": "Repositories",
+    "name": "GitHubDaily",
+    "description": "\u575a\u6301\u5206\u4eab GitHub \u4e0a\u9ad8\u8d28\u91cf\u3001\u6709\u8da3\u5b9e\u7528\u7684\u5f00\u6e90\u6280\u672f\u6559\u7a0b\u3001\u5f00\u53d1\u8005\u5de5\u5177\u3001\u7f16\u7a0b\u7f51\u7ad9\u3001\u6280\u672f\u8d44\u8baf\u3002A list cool, interesting projects of GitHub.",
+    "url": "https://github.com/GitHubDaily/GitHubDaily",
+    "categories": [
+      "Python"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "stars": 47495,
+      "provider": "GitHubDaily"
+    }
+  },
+  {
+    "id": "93aba2cd-9864-4081-a46e-6072a50135ff",
+    "entity_type": "Repositories",
+    "name": "JeecgBoot",
+    "description": "\u3010\u4f4e\u4ee3\u7801\u8fc8\u5165v2.0\u65f6\u4ee3\uff0c\u4e00\u53e5\u8bdd\u5373\u53ef\u751f\u6210\u6574\u4e2a\u7cfb\u7edf\u3011\u4f01\u4e1a\u7ea7AI\u4f4e\u4ee3\u7801\u5e73\u53f0\uff0c\u4e00\u952e\u751f\u6210\u524d\u540e\u7aef\u4ee3\u7801\u751a\u81f3\u6574\u4e2a\u7cfb\u7edf\u3002 AI Skills \u4e00\u53e5\u8bdd\u753b\u6d41\u7a0b\u3001\u8bbe\u8ba1\u8868\u5355\u3001\u751f\u6210\u62a5\u8868\u3001\u5927\u5c4f\u3002\u5185\u7f6e AI\u5e94\u7528\u5e73\u53f0\u6db5\u76d6\uff1aAI\u804a\u5929\u3001\u77e5\u8bc6\u5e93\u3001\u6d41\u7a0b\u7f16\u6392\u3001MCP\u63d2\u4ef6\u7b49\uff0c\u517c\u5bb9\u4e3b\u6d41\u5927\u6a21\u578b\u3002\u5f15\u9886AI\u4f4e\u4ee3\u7801\u300cSkills \u751f\u6210 \u2192 \u5728\u7ebf\u914d\u7f6e \u2192 \u4ee3\u7801\u751f\u6210 \u2192 \u624b\u5de5\u5408\u5e76->AI\u4fee\u6539\u300d\u5f00\u53d1\u6a21\u5f0f\uff0c\u89e3\u51b3 Java \u9879\u76ee 90% \u91cd\u590d\u5de5\u4f5c\uff0c\u63d0\u9ad8\u6548\u7387\u53c8\u4e0d\u5931\u7075\u6d3b\u3002",
+    "url": "https://github.com/jeecgboot/JeecgBoot",
+    "categories": [
+      "Java"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "stars": 47410,
+      "provider": "jeecgboot"
+    }
+  },
+  {
+    "id": "dbd9d88f-87a7-4cc9-ad83-82c3d2378b27",
+    "entity_type": "Repositories",
+    "name": "CL4R1T4S",
+    "description": "LEAKED SYSTEM PROMPTS FOR CHATGPT, CLAUDE, GEMINI, GROK, PERPLEXITY, CURSOR, LOVABLE, REPLIT, AND MORE! - AI SYSTEMS TRANSPARENCY FOR ALL! \ud83d\udc50",
+    "url": "https://github.com/elder-plinius/CL4R1T4S",
+    "categories": [
+      "Python"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "stars": 46977,
+      "provider": "elder-plinius"
+    }
+  },
+  {
+    "id": "8d86620a-3205-47d5-a42b-a47a2a5a0be1",
+    "entity_type": "Repositories",
+    "name": "ai-engineering-from-scratch",
+    "description": "Learn it. Build it. Ship it for others.",
+    "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+    "categories": [
+      "Python"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "stars": 46972,
+      "provider": "rohitg00"
+    }
+  },
+  {
+    "id": "1f669939-a6f5-475c-bde8-28021c8fecbc",
+    "entity_type": "Repositories",
+    "name": "CowAgent",
+    "description": "Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-model, multi-channel. Lightweight, extensible, one-line install. (formerly chatgpt-on-wechat)",
+    "url": "https://github.com/zhayujie/CowAgent",
+    "categories": [
+      "Python"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "stars": 46529,
+      "provider": "zhayujie"
+    }
+  },
+  {
+    "id": "9d10f72b-e714-4ab6-90ca-76584d1e706b",
+    "entity_type": "Repositories",
+    "name": "kong",
+    "description": "\ud83e\udd8d The API and AI Gateway",
+    "url": "https://github.com/Kong/kong",
+    "categories": [
+      "Lua"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "stars": 43988,
+      "provider": "Kong"
+    }
+  },
+  {
+    "id": "edae6f88-33ce-4f78-984b-35d1dd0761bf",
+    "entity_type": "Repositories",
+    "name": "Fabric",
+    "description": "Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+    "url": "https://github.com/danielmiessler/Fabric",
+    "categories": [
+      "Go"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "stars": 43460,
+      "provider": "danielmiessler"
+    }
+  },
+  {
+    "id": "99460364-4ad5-4a92-b248-adb3c9886136",
+    "entity_type": "Repositories",
+    "name": "LibreChat",
+    "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
+    "url": "https://github.com/danny-avila/LibreChat",
+    "categories": [
+      "TypeScript"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "stars": 42124,
+      "provider": "danny-avila"
+    }
+  },
+  {
+    "id": "c58e9851-e64a-433a-aaee-bd5c8e04b88f",
+    "entity_type": "Repositories",
+    "name": "agno",
+    "description": "Build, run, and manage agent platforms.",
+    "url": "https://github.com/agno-agi/agno",
+    "categories": [
+      "Python"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "stars": 41739,
+      "provider": "agno-agi"
+    }
+  },
+  {
+    "id": "cfb53cc5-7fba-4970-9771-88cd0a733123",
+    "entity_type": "Repositories",
+    "name": "ColossalAI",
+    "description": "Making large AI models cheaper, faster and more accessible",
+    "url": "https://github.com/hpcaitech/ColossalAI",
+    "categories": [
+      "Python"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "stars": 41436,
+      "provider": "hpcaitech"
+    }
+  },
+  {
+    "id": "4f99bc3e-2624-454a-9ca8-92556338eeea",
+    "entity_type": "Repositories",
+    "name": "hyperframes",
+    "description": "Write HTML. Render video. Built for agents.",
+    "url": "https://github.com/heygen-com/hyperframes",
+    "categories": [
+      "TypeScript"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "stars": 41310,
+      "provider": "heygen-com"
+    }
+  },
+  {
+    "id": "3889295d-3a34-45e6-b2f4-3adbaf15d98f",
+    "entity_type": "Repositories",
+    "name": "CodeWhale",
+    "description": "Open-source, community-driven agent harness",
+    "url": "https://github.com/Hmbown/CodeWhale",
+    "categories": [
+      "Rust"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "stars": 40827,
+      "provider": "Hmbown"
+    }
+  },
+  {
+    "id": "3915cff3-86df-4449-8ef2-c7882c4197d2",
+    "entity_type": "Repositories",
+    "name": "reactive-resume",
+    "description": "A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!",
+    "url": "https://github.com/amruthpillai/reactive-resume",
+    "categories": [
+      "TypeScript"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "stars": 40719,
+      "provider": "amruthpillai"
+    }
+  },
+  {
+    "id": "d858ab8f-3184-4cc7-9b5e-5b61267925aa",
+    "entity_type": "Repositories",
+    "name": "tidb",
+    "description": "TiDB is built for agentic workloads that grow unpredictably, with ACID guarantees and native support for transactions, analytics, and vector search. No data silos. No noisy neighbors. No infrastructure ceiling.",
+    "url": "https://github.com/pingcap/tidb",
+    "categories": [
+      "Go"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "stars": 40438,
+      "provider": "pingcap"
+    }
+  },
+  {
+    "id": "7c0cffca-2035-491e-884e-e0fdbeafddff",
+    "entity_type": "Repositories",
+    "name": "photoprism",
+    "description": "AI-Powered Photos App \ud83c\udf08\ud83d\udc8e\u2728",
+    "url": "https://github.com/photoprism/photoprism",
+    "categories": [
+      "Go"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "stars": 40077,
+      "provider": "photoprism"
+    }
+  },
+  {
+    "id": "b9f6e0f9-6506-43f4-b87d-7fd9d21d2761",
+    "entity_type": "Repositories",
+    "name": "langgraph",
+    "description": "Build resilient agents.",
+    "url": "https://github.com/langchain-ai/langgraph",
+    "categories": [
+      "Python"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "stars": 39840,
+      "provider": "langchain-ai"
+    }
+  },
+  {
+    "id": "25d777f6-a0b2-42c1-b332-cd4036728440",
+    "entity_type": "Repositories",
+    "name": "mindshub",
+    "description": "The unified workspace where open-source models get things done for you.",
+    "url": "https://github.com/mindsdb/mindshub",
+    "categories": [
+      "Makefile"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "stars": 39591,
+      "provider": "mindsdb"
+    }
+  },
+  {
+    "id": "3ab5b405-7aa6-4e3f-9aa4-f73521d09df8",
+    "entity_type": "Repositories",
+    "name": "quivr",
+    "description": "Opiniated RAG for integrating GenAI in your apps \ud83e\udde0 Focus on your product rather than the RAG. Easy integration in existing products with customisation! Any LLM: GPT4, Groq, Llama. Any Vectorstore: PGVector, Faiss. Any Files. Anyway you want.",
+    "url": "https://github.com/QuivrHQ/quivr",
+    "categories": [
+      "Python"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "stars": 39400,
+      "provider": "QuivrHQ"
+    }
+  },
+  {
+    "id": "bb20fe1c-d3a5-4b86-a8a5-99178b842d51",
+    "entity_type": "Repositories",
+    "name": "AstrBot",
+    "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. \u2728",
+    "url": "https://github.com/AstrBotDevs/AstrBot",
+    "categories": [
+      "Python"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "stars": 39276,
+      "provider": "AstrBotDevs"
+    }
+  },
+  {
+    "id": "3143fa07-d1d5-4a24-8873-9bc5627bd55c",
+    "entity_type": "Repositories",
+    "name": "Folo",
+    "description": "\ud83e\udde1 Folo is the AI RSS Reader",
+    "url": "https://github.com/RSSNext/Folo",
+    "categories": [
+      "TypeScript"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "stars": 38817,
+      "provider": "RSSNext"
+    }
+  },
+  {
+    "id": "516be052-949a-44aa-8524-abb132fb8f59",
+    "entity_type": "Repositories",
+    "name": "google-research",
+    "description": "Google Research",
+    "url": "https://github.com/google-research/google-research",
+    "categories": [
+      "Jupyter Notebook"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "stars": 38558,
+      "provider": "google-research"
+    }
+  },
+  {
+    "id": "e38e0b11-0fda-494b-bd50-422a21718236",
+    "entity_type": "Repositories",
+    "name": "awesome-copilot",
+    "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
+    "url": "https://github.com/github/awesome-copilot",
+    "categories": [
+      "Python"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "stars": 37917,
+      "provider": "github"
+    }
+  },
+  {
+    "id": "4f97f134-30c9-4821-90c0-c92309e5e24e",
+    "entity_type": "Repositories",
+    "name": "Open-Assistant",
+    "description": "OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.",
+    "url": "https://github.com/LAION-AI/Open-Assistant",
+    "categories": [
+      "Python"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "stars": 37407,
+      "provider": "LAION-AI"
+    }
+  },
+  {
+    "id": "fb897648-03cf-4cbb-aa01-bc493344c9da",
+    "entity_type": "Repositories",
+    "name": "ai-engineering-hub",
+    "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
+    "url": "https://github.com/patchy631/ai-engineering-hub",
+    "categories": [
+      "Jupyter Notebook"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "stars": 37011,
+      "provider": "patchy631"
+    }
+  },
+  {
+    "id": "a11d5469-05b7-4bd8-b1db-0ab3fe0edb89",
+    "entity_type": "Repositories",
+    "name": "MockingBird",
+    "description": "\ud83d\ude80Clone a voice in 5 seconds to generate arbitrary speech in real-time",
+    "url": "https://github.com/babysor/MockingBird",
+    "categories": [
+      "Python"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "stars": 36908,
+      "provider": "babysor"
+    }
+  },
+  {
+    "id": "6cb3b84b-7658-4d92-a4ae-1d98be98707e",
+    "entity_type": "Repositories",
+    "name": "CopilotKit",
+    "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more. Makers of the AG-UI Protocol",
+    "url": "https://github.com/CopilotKit/CopilotKit",
+    "categories": [
+      "TypeScript"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "stars": 36791,
+      "provider": "CopilotKit"
+    }
+  },
+  {
+    "id": "69ef2dd7-e39b-4a1a-9d96-919307072c79",
+    "entity_type": "Repositories",
+    "name": "dokploy",
+    "description": "Open Source Alternative to Vercel, Netlify and Heroku.",
+    "url": "https://github.com/Dokploy/dokploy",
+    "categories": [
+      "TypeScript"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "stars": 36654,
+      "provider": "Dokploy"
+    }
+  },
+  {
+    "id": "f6822964-0cc9-48b9-a9d1-0d7fbed0dd23",
+    "entity_type": "Repositories",
+    "name": "khoj",
+    "description": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.",
+    "url": "https://github.com/khoj-ai/khoj",
+    "categories": [
+      "Python"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "stars": 36520,
+      "provider": "khoj-ai"
+    }
+  },
+  {
+    "id": "2a036b4b-1128-42b5-adc1-3b02ae2ee3bc",
+    "entity_type": "Repositories",
+    "name": "AgentGPT",
+    "description": "\ud83e\udd16 Assemble, configure, and deploy autonomous AI Agents in your browser.",
+    "url": "https://github.com/reworkd/AgentGPT",
+    "categories": [
+      "TypeScript"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "stars": 36307,
+      "provider": "reworkd"
+    }
+  },
+  {
+    "id": "f38a5029-0287-45fc-b7f2-23244bc593a6",
+    "entity_type": "Repositories",
+    "name": "continue",
+    "description": "open-source coding agent",
+    "url": "https://github.com/continuedev/continue",
+    "categories": [
+      "TypeScript"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "stars": 35510,
+      "provider": "continuedev"
+    }
+  },
+  {
+    "id": "9fad33ce-8ce4-42e7-8c86-4cd90192417b",
+    "entity_type": "Repositories",
+    "name": "PageIndex",
+    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+    "url": "https://github.com/VectifyAI/PageIndex",
+    "categories": [
+      "Python"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "stars": 35213,
+      "provider": "VectifyAI"
+    }
+  },
+  {
+    "id": "2dd92b00-8ee0-44c3-8776-4d43419aa03f",
+    "entity_type": "Repositories",
+    "name": "frigate",
+    "description": "NVR with realtime local object detection for IP cameras",
+    "url": "https://github.com/blakeblackshear/frigate",
+    "categories": [
+      "TypeScript"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "stars": 35143,
+      "provider": "blakeblackshear"
+    }
+  },
+  {
+    "id": "46994323-d540-4ebd-b9b9-5cbcc446b4d3",
+    "entity_type": "Repositories",
+    "name": "next-ai-draw-io",
+    "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
+    "url": "https://github.com/DayuanJiang/next-ai-draw-io",
+    "categories": [
+      "TypeScript"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "stars": 34963,
+      "provider": "DayuanJiang"
+    }
+  },
+  {
+    "id": "9b7f59a8-ab66-4956-b622-4cea507b13d9",
+    "entity_type": "Repositories",
+    "name": "gold-miner",
+    "description": "\ud83e\udd47\u6398\u91d1\u7ffb\u8bd1\u8ba1\u5212\uff0c\u53ef\u80fd\u662f\u4e16\u754c\u6700\u5927\u6700\u597d\u7684\u82f1\u8bd1\u4e2d\u6280\u672f\u793e\u533a\uff0c\u6700\u61c2\u8bfb\u8005\u548c\u8bd1\u8005\u7684\u7ffb\u8bd1\u5e73\u53f0\uff1a",
+    "url": "https://github.com/xitu/gold-miner",
+    "categories": [
+      "Python"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "stars": 34327,
+      "provider": "xitu"
+    }
+  },
+  {
+    "id": "633267f4-fda4-465e-acaf-e1222a65eada",
+    "entity_type": "Repositories",
+    "name": "tabby",
+    "description": "Self-hosted AI coding assistant",
+    "url": "https://github.com/TabbyML/tabby",
+    "categories": [
+      "Rust"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "stars": 33830,
+      "provider": "TabbyML"
+    }
+  },
+  {
+    "id": "57874394-7d02-4ac8-ac16-c335037c9d23",
+    "entity_type": "Repositories",
+    "name": "spaCy",
+    "description": "\ud83d\udcab Industrial-strength Natural Language Processing (NLP) in Python",
+    "url": "https://github.com/explosion/spaCy",
+    "categories": [
+      "Python"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "stars": 33824,
+      "provider": "explosion"
+    }
+  },
+  {
+    "id": "755432db-d036-4c7d-a9b5-c33519f87f03",
+    "entity_type": "Repositories",
+    "name": "gpt-pilot",
+    "description": "The first real AI developer",
+    "url": "https://github.com/Pythagora-io/gpt-pilot",
+    "categories": [
+      "Python"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "stars": 33697,
+      "provider": "Pythagora-io"
+    }
+  },
+  {
+    "id": "6ed8c2f8-0493-4eee-9270-14e7b8c8e01b",
+    "entity_type": "Repositories",
+    "name": "netron",
+    "description": "Visualizer for neural network, deep learning and machine learning models",
+    "url": "https://github.com/lutzroeder/netron",
+    "categories": [
+      "JavaScript"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "stars": 33364,
+      "provider": "lutzroeder"
+    }
+  },
+  {
+    "id": "6c25619b-6c73-40c4-b5cc-0897b6e04c32",
+    "entity_type": "Repositories",
+    "name": "zeroclaw",
+    "description": "Fast, small, and fully autonomous AI personal assistant infrastructure, any OS, any platform \u2014 deploy anywhere, swap anything \ud83e\udd80",
+    "url": "https://github.com/zeroclaw-labs/zeroclaw",
+    "categories": [
+      "Rust"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "stars": 32602,
+      "provider": "zeroclaw-labs"
+    }
+  },
+  {
+    "id": "8854e7f0-333c-4392-a779-b3fa203372ef",
+    "entity_type": "Repositories",
+    "name": "ai-website-cloner-template",
+    "description": "Clone any website with one command using AI coding agents",
+    "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+    "categories": [
+      "JavaScript"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "stars": 32248,
+      "provider": "JCodesMore"
+    }
+  },
+  {
+    "id": "805b919b-9702-4174-a825-58a5ad3d05ae",
+    "entity_type": "Repositories",
+    "name": "SillyTavern",
+    "description": "LLM Frontend for Power Users.",
+    "url": "https://github.com/SillyTavern/SillyTavern",
+    "categories": [
+      "JavaScript"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "stars": 32237,
+      "provider": "SillyTavern"
+    }
+  },
+  {
+    "id": "52c6ab17-7f29-4094-aca0-4d1bc6ff17d9",
+    "entity_type": "Repositories",
+    "name": "AionUi",
+    "description": "Open-source 24/7 Cowork app for OpenClaw, Hermes, Claude Code, Codex, OpenCode and 20+ more CLI Agent | Customize your assistants | Team them up\uff5cStar if you like it!",
+    "url": "https://github.com/iOfficeAI/AionUi",
+    "categories": [
+      "TypeScript"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "stars": 32055,
+      "provider": "iOfficeAI"
+    }
+  },
+  {
+    "id": "6fb462cb-7b07-4a77-8510-e19eafb14139",
+    "entity_type": "MCP",
+    "name": "n8n",
+    "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "url": "https://github.com/n8n-io/n8n",
+    "categories": [
+      "MCP Server"
+    ],
+    "source": {
+      "name": "GitHub MCP API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "integrates_with": "GitHub",
+      "runtime_requirements": "Node/Python"
+    }
+  },
+  {
+    "id": "c98d2d01-e4f6-4e48-b33b-c97ae2864622",
+    "entity_type": "MCP",
+    "name": "gemini-cli",
+    "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+    "url": "https://github.com/google-gemini/gemini-cli",
+    "categories": [
+      "MCP Server"
+    ],
+    "source": {
+      "name": "GitHub MCP API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "integrates_with": "GitHub",
+      "runtime_requirements": "Node/Python"
+    }
+  },
+  {
+    "id": "229ab43e-5b37-47f7-a416-692624064176",
+    "entity_type": "MCP",
+    "name": "worldmonitor",
+    "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+    "url": "https://github.com/koala73/worldmonitor",
+    "categories": [
+      "MCP Server"
+    ],
+    "source": {
+      "name": "GitHub MCP API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "integrates_with": "GitHub",
+      "runtime_requirements": "Node/Python"
+    }
+  },
+  {
+    "id": "64de1ae3-b729-41a2-af84-6ab42e2613fb",
+    "entity_type": "MCP",
+    "name": "Scrapling",
+    "description": "\ud83d\udd77\ufe0f An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
+    "url": "https://github.com/D4Vinci/Scrapling",
+    "categories": [
+      "MCP Server"
+    ],
+    "source": {
+      "name": "GitHub MCP API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "integrates_with": "GitHub",
+      "runtime_requirements": "Node/Python"
+    }
+  },
+  {
+    "id": "92e3f938-7eae-4e64-876d-2b07f6298295",
+    "entity_type": "MCP",
+    "name": "ruflo",
+    "description": "\ud83c\udf0a The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+    "url": "https://github.com/ruvnet/ruflo",
+    "categories": [
+      "MCP Server"
+    ],
+    "source": {
+      "name": "GitHub MCP API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "integrates_with": "GitHub",
+      "runtime_requirements": "Node/Python"
+    }
+  },
+  {
+    "id": "3f15f354-0be5-4ad2-b78d-9a75fef879c5",
+    "entity_type": "MCP",
+    "name": "TrendRadar",
+    "description": "\u2b50AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.\ud83c\udfaf \u544a\u522b\u4fe1\u606f\u8fc7\u8f7d\uff0c\u4f60\u7684 AI \u8206\u60c5\u76d1\u63a7\u52a9\u624b\u4e0e\u70ed\u70b9\u7b5b\u9009\u5de5\u5177\uff01\u805a\u5408\u591a\u5e73\u53f0\u70ed\u70b9 + RSS \u8ba2\u9605\uff0c\u652f\u6301\u5173\u952e\u8bcd\u7cbe\u51c6\u7b5b\u9009\u3002AI \u667a\u80fd\u7b5b\u9009\u65b0\u95fb + AI \u7ffb\u8bd1 + AI \u5206\u6790\u7b80\u62a5\u76f4\u63a8\u624b\u673a\uff0c\u4e5f\u652f\u6301\u63a5\u5165 MCP \u67b6\u6784\uff0c\u8d4b\u80fd AI \u81ea\u7136\u8bed\u8a00\u5bf9\u8bdd\u5206\u6790\u3001\u60c5\u611f\u6d1e\u5bdf\u4e0e\u8d8b\u52bf\u9884\u6d4b\u7b49\u3002\u652f\u6301 Docker \uff0c\u6570\u636e\u672c\u5730/\u4e91\u7aef\u81ea\u6301\u3002\u96c6\u6210\u5fae\u4fe1/\u98de\u4e66/\u9489\u9489/Telegram/\u90ae\u4ef6/ntfy/bark/slack \u7b49\u6e20\u9053\u667a\u80fd\u63a8\u9001\u3002",
+    "url": "https://github.com/sansan0/TrendRadar",
+    "categories": [
+      "MCP Server"
+    ],
+    "source": {
+      "name": "GitHub MCP API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "integrates_with": "GitHub",
+      "runtime_requirements": "Node/Python"
+    }
+  },
+  {
+    "id": "2fde17e7-4059-4e72-bbca-9ffa2f2417a3",
+    "entity_type": "MCP",
+    "name": "context7",
+    "description": "Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors",
+    "url": "https://github.com/upstash/context7",
+    "categories": [
+      "MCP Server"
+    ],
+    "source": {
+      "name": "GitHub MCP API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "integrates_with": "GitHub",
+      "runtime_requirements": "Node/Python"
+    }
+  },
+  {
+    "id": "fd8a56d0-3029-4b88-9dac-a383b25bcc00",
+    "entity_type": "MCP",
+    "name": "chrome-devtools-mcp",
+    "description": "Chrome DevTools for coding agents",
+    "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+    "categories": [
+      "MCP Server"
+    ],
+    "source": {
+      "name": "GitHub MCP API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "integrates_with": "GitHub",
+      "runtime_requirements": "Node/Python"
+    }
+  },
+  {
+    "id": "f86d880e-d90e-4c2d-8e00-9ef616da6be6",
+    "entity_type": "MCP",
+    "name": "codebase-memory-mcp",
+    "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph \u2014 average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+    "url": "https://github.com/DeusData/codebase-memory-mcp",
+    "categories": [
+      "MCP Server"
+    ],
+    "source": {
+      "name": "GitHub MCP API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "integrates_with": "GitHub",
+      "runtime_requirements": "Node/Python"
+    }
+  },
+  {
+    "id": "852a0464-79d8-4eb6-a19b-6174232046b1",
+    "entity_type": "MCP",
+    "name": "UI-TARS-desktop",
+    "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+    "url": "https://github.com/bytedance/UI-TARS-desktop",
+    "categories": [
+      "MCP Server"
+    ],
+    "source": {
+      "name": "GitHub MCP API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "integrates_with": "GitHub",
+      "runtime_requirements": "Node/Python"
+    }
+  },
+  {
+    "id": "7e01c422-904f-4213-8ce9-3fdd276cce9b",
+    "entity_type": "MCP",
+    "name": "github-mcp-server",
+    "description": "GitHub's official MCP Server",
+    "url": "https://github.com/github/github-mcp-server",
+    "categories": [
+      "MCP Server"
+    ],
+    "source": {
+      "name": "GitHub MCP API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "integrates_with": "GitHub",
+      "runtime_requirements": "Node/Python"
+    }
+  },
+  {
+    "id": "29c60366-d743-4479-95e9-53479780561d",
+    "entity_type": "MCP",
+    "name": "gpt-researcher",
+    "description": "An autonomous agent that conducts deep research on any data using any LLM providers",
+    "url": "https://github.com/assafelovic/gpt-researcher",
+    "categories": [
+      "MCP Server"
+    ],
+    "source": {
+      "name": "GitHub MCP API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "integrates_with": "GitHub",
+      "runtime_requirements": "Node/Python"
+    }
+  },
+  {
+    "id": "8f0be5b2-8e07-4258-9e07-f0d86b0d953a",
+    "entity_type": "MCP",
+    "name": "serena",
+    "description": "A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities - the IDE for your agent",
+    "url": "https://github.com/oraios/serena",
+    "categories": [
+      "MCP Server"
+    ],
+    "source": {
+      "name": "GitHub MCP API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "integrates_with": "GitHub",
+      "runtime_requirements": "Node/Python"
+    }
+  },
+  {
+    "id": "9f542dce-3816-4b1f-9e5a-2d2b8a9d96f2",
+    "entity_type": "MCP",
+    "name": "python-sdk",
+    "description": "The official Python SDK for Model Context Protocol servers and clients",
+    "url": "https://github.com/modelcontextprotocol/python-sdk",
+    "categories": [
+      "MCP Server"
+    ],
+    "source": {
+      "name": "GitHub MCP API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "integrates_with": "GitHub",
+      "runtime_requirements": "Node/Python"
+    }
+  },
+  {
+    "id": "5414e671-9845-4880-b234-fda67db5ff5b",
+    "entity_type": "MCP",
+    "name": "activepieces",
+    "description": "AI Agents & MCPs & AI Workflow Automation \u2022 (~400 MCP servers for AI agents) \u2022 AI Automation / AI Agent with MCPs \u2022 AI Workflows & AI Agents \u2022 MCPs for AI Agents",
+    "url": "https://github.com/activepieces/activepieces",
+    "categories": [
+      "MCP Server"
+    ],
+    "source": {
+      "name": "GitHub MCP API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "integrates_with": "GitHub",
+      "runtime_requirements": "Node/Python"
+    }
+  },
+  {
+    "id": "3e71815b-88fb-474c-b444-78f6d1532ec9",
+    "entity_type": "MCP",
+    "name": "n8n-mcp",
+    "description": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you",
+    "url": "https://github.com/czlonkowski/n8n-mcp",
+    "categories": [
+      "MCP Server"
+    ],
+    "source": {
+      "name": "GitHub MCP API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "integrates_with": "GitHub",
+      "runtime_requirements": "Node/Python"
+    }
+  },
+  {
+    "id": "d28a19b8-4c64-44c1-8bf8-5da44c100f70",
+    "entity_type": "MCP",
+    "name": "MaxKB",
+    "description": "\ud83d\udd25 MaxKB is an open-source platform for building enterprise-grade agents. \u5f3a\u5927\u6613\u7528\u7684\u5f00\u6e90\u4f01\u4e1a\u7ea7\u667a\u80fd\u4f53\u5e73\u53f0\u3002",
+    "url": "https://github.com/1Panel-dev/MaxKB",
+    "categories": [
+      "MCP Server"
+    ],
+    "source": {
+      "name": "GitHub MCP API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "integrates_with": "GitHub",
+      "runtime_requirements": "Node/Python"
+    }
+  },
+  {
+    "id": "90e28a4b-a3f2-448b-ab65-c0b731c3182e",
+    "entity_type": "MCP",
+    "name": "context-mode",
+    "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+    "url": "https://github.com/mksglu/context-mode",
+    "categories": [
+      "MCP Server"
+    ],
+    "source": {
+      "name": "GitHub MCP API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "integrates_with": "GitHub",
+      "runtime_requirements": "Node/Python"
+    }
+  },
+  {
+    "id": "71153a86-c51d-4ff9-a134-0090e305c0c2",
+    "entity_type": "MCP",
+    "name": "FunASR",
+    "description": "Open-source speech recognition toolkit for training, inference, streaming ASR, VAD, punctuation, speaker diarization pipelines, and OpenAI-compatible/MCP serving.",
+    "url": "https://github.com/modelscope/FunASR",
+    "categories": [
+      "MCP Server"
+    ],
+    "source": {
+      "name": "GitHub MCP API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "integrates_with": "GitHub",
+      "runtime_requirements": "Node/Python"
+    }
+  },
+  {
+    "id": "d388058e-39a8-46a3-b64c-4480ecd6f428",
+    "entity_type": "MCP",
+    "name": "nuclear",
+    "description": "Streaming music player that finds free music for you",
+    "url": "https://github.com/nukeop/nuclear",
+    "categories": [
+      "MCP Server"
+    ],
+    "source": {
+      "name": "GitHub MCP API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "integrates_with": "GitHub",
+      "runtime_requirements": "Node/Python"
+    }
+  },
+  {
+    "id": "9eb00b6f-5f10-4707-95cd-a95bb7f8f5d8",
+    "entity_type": "MCP",
+    "name": "mcp-for-beginners",
+    "description": "This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust and Python. Designed for developers, it focuses on practical techniques for building modular, scalable, and secure AI workflows from session setup to service orchestration.",
+    "url": "https://github.com/microsoft/mcp-for-beginners",
+    "categories": [
+      "MCP Server"
+    ],
+    "source": {
+      "name": "GitHub MCP API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "integrates_with": "GitHub",
+      "runtime_requirements": "Node/Python"
+    }
+  },
+  {
+    "id": "60bb47e8-8e0a-41c0-9d55-b762cbbe23b4",
+    "entity_type": "MCP",
+    "name": "trigger.dev",
+    "description": "Trigger.dev \u2013 build and deploy fully\u2011managed AI agents and workflows",
+    "url": "https://github.com/triggerdotdev/trigger.dev",
+    "categories": [
+      "MCP Server"
+    ],
+    "source": {
+      "name": "GitHub MCP API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "integrates_with": "GitHub",
+      "runtime_requirements": "Node/Python"
+    }
+  },
+  {
+    "id": "25daf2dc-2729-48a6-8000-8f9f4281be9d",
+    "entity_type": "MCP",
+    "name": "xiaohongshu-mcp",
+    "description": "MCP for xiaohongshu.com",
+    "url": "https://github.com/xpzouying/xiaohongshu-mcp",
+    "categories": [
+      "MCP Server"
+    ],
+    "source": {
+      "name": "GitHub MCP API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "integrates_with": "GitHub",
+      "runtime_requirements": "Node/Python"
+    }
+  },
+  {
+    "id": "1b303ff0-c9b5-4deb-9d68-6f2d228bc9f5",
+    "entity_type": "MCP",
+    "name": "OpenMetadata",
+    "description": "The Open Context Layer for Data and AI , OpenMetadata is the open platform for building trusted data context and business semantics for humans, AI assistants, and agents.",
+    "url": "https://github.com/open-metadata/OpenMetadata",
+    "categories": [
+      "MCP Server"
+    ],
+    "source": {
+      "name": "GitHub MCP API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "integrates_with": "GitHub",
+      "runtime_requirements": "Node/Python"
+    }
+  },
+  {
+    "id": "84cd217a-6d01-43fc-869c-8763069433be",
+    "entity_type": "MCP",
+    "name": "Auto-claude-code-research-in-sleep",
+    "description": "ARIS \u2694\ufe0f (Auto-Research-In-Sleep) \u2014 Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation. No framework, no lock-in \u2014 works with Claude Code, Codex, OpenClaw, or any LLM agent.",
+    "url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep",
+    "categories": [
+      "MCP Server"
+    ],
+    "source": {
+      "name": "GitHub MCP API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "integrates_with": "GitHub",
+      "runtime_requirements": "Node/Python"
+    }
+  },
+  {
+    "id": "9fc47698-3903-4694-ab00-b6defb5d208d",
+    "entity_type": "MCP",
+    "name": "Skill_Seekers",
+    "description": "Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection",
+    "url": "https://github.com/yusufkaraaslan/Skill_Seekers",
+    "categories": [
+      "MCP Server"
+    ],
+    "source": {
+      "name": "GitHub MCP API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "integrates_with": "GitHub",
+      "runtime_requirements": "Node/Python"
+    }
+  },
+  {
+    "id": "5c5d0632-c36f-4da3-9104-4e022d3b254c",
+    "entity_type": "MCP",
+    "name": "typescript-sdk",
+    "description": "The official TypeScript SDK for Model Context Protocol servers and clients",
+    "url": "https://github.com/modelcontextprotocol/typescript-sdk",
+    "categories": [
+      "MCP Server"
+    ],
+    "source": {
+      "name": "GitHub MCP API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "integrates_with": "GitHub",
+      "runtime_requirements": "Node/Python"
+    }
+  },
+  {
+    "id": "912ea9c4-bae6-402b-8932-d6141f37e14b",
+    "entity_type": "MCP",
+    "name": "XHS-Downloader",
+    "description": "\u5c0f\u7ea2\u4e66\uff08XiaoHongShu\u3001RedNote\uff09\u94fe\u63a5\u63d0\u53d6/\u4f5c\u54c1\u91c7\u96c6\u5de5\u5177\uff1a\u63d0\u53d6\u8d26\u53f7\u53d1\u5e03\u3001\u6536\u85cf\u3001\u70b9\u8d5e\u3001\u4e13\u8f91\u4f5c\u54c1\u94fe\u63a5\uff1b\u63d0\u53d6\u641c\u7d22\u7ed3\u679c\u4f5c\u54c1\u3001\u7528\u6237\u94fe\u63a5\uff1b\u91c7\u96c6\u5c0f\u7ea2\u4e66\u4f5c\u54c1\u4fe1\u606f\uff1b\u63d0\u53d6\u5c0f\u7ea2\u4e66\u4f5c\u54c1\u4e0b\u8f7d\u5730\u5740\uff1b\u4e0b\u8f7d\u5c0f\u7ea2\u4e66\u4f5c\u54c1\u6587\u4ef6",
+    "url": "https://github.com/JoeanAmier/XHS-Downloader",
+    "categories": [
+      "MCP Server"
+    ],
+    "source": {
+      "name": "GitHub MCP API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "integrates_with": "GitHub",
+      "runtime_requirements": "Node/Python"
+    }
+  },
+  {
+    "id": "dad767dc-a620-483c-814b-09a6bdf3165c",
+    "entity_type": "MCP",
+    "name": "fastapi_mcp",
+    "description": "Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!",
+    "url": "https://github.com/tadata-org/fastapi_mcp",
+    "categories": [
+      "MCP Server"
+    ],
+    "source": {
+      "name": "GitHub MCP API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "integrates_with": "GitHub",
+      "runtime_requirements": "Node/Python"
+    }
+  },
+  {
+    "id": "2cf3051e-a1f6-4e90-a2df-fb0b8bdf8909",
+    "entity_type": "MCP",
+    "name": "nginx-ui",
+    "description": "Yet another WebUI for Nginx",
+    "url": "https://github.com/0xJacky/nginx-ui",
+    "categories": [
+      "MCP Server"
+    ],
+    "source": {
+      "name": "GitHub MCP API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "integrates_with": "GitHub",
+      "runtime_requirements": "Node/Python"
+    }
+  },
+  {
+    "id": "fb9db92a-e731-41f7-965b-3e9726538ebc",
+    "entity_type": "MCP",
+    "name": "ida-pro-mcp",
+    "description": "AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP.",
+    "url": "https://github.com/mrexodia/ida-pro-mcp",
+    "categories": [
+      "MCP Server"
+    ],
+    "source": {
+      "name": "GitHub MCP API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "integrates_with": "GitHub",
+      "runtime_requirements": "Node/Python"
+    }
+  },
+  {
+    "id": "f46ab29d-9e0a-4cd6-84a7-e71f87f736b6",
+    "entity_type": "MCP",
+    "name": "hexstrike-ai",
+    "description": "HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug bounty automation, and security research. Seamlessly bridge LLMs with real-world offensive security capabilities.",
+    "url": "https://github.com/0x4m4/hexstrike-ai",
+    "categories": [
+      "MCP Server"
+    ],
+    "source": {
+      "name": "GitHub MCP API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "integrates_with": "GitHub",
+      "runtime_requirements": "Node/Python"
+    }
+  },
+  {
+    "id": "44e284a2-5c12-44d6-a95c-adc20c25d433",
+    "entity_type": "MCP",
+    "name": "QuantDinger",
+    "description": "AI quantitative trading platform for crypto, stocks, and forex with backtesting, live trading, market data, and multi-agent research.vibe-trading ,trading-agents,ai-trader,ai-trading",
+    "url": "https://github.com/OpenByteInc/QuantDinger",
+    "categories": [
+      "MCP Server"
+    ],
+    "source": {
+      "name": "GitHub MCP API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "integrates_with": "GitHub",
+      "runtime_requirements": "Node/Python"
+    }
+  },
+  {
+    "id": "1a7cabc0-d30a-4177-b7cb-49d85794b4a4",
+    "entity_type": "MCP",
+    "name": "mcp-use",
+    "description": "The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & MCP Servers for AI Agents.",
+    "url": "https://github.com/mcp-use/mcp-use",
+    "categories": [
+      "MCP Server"
+    ],
+    "source": {
+      "name": "GitHub MCP API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "integrates_with": "GitHub",
+      "runtime_requirements": "Node/Python"
+    }
+  },
+  {
+    "id": "b40089be-be19-4c79-98c2-22b802ac3e6b",
+    "entity_type": "MCP",
+    "name": "xiaozhi-esp32-server",
+    "description": "\u672c\u9879\u76ee\u4e3axiaozhi-esp32\u63d0\u4f9b\u540e\u7aef\u670d\u52a1\uff0c\u5e2e\u52a9\u60a8\u5feb\u901f\u642d\u5efaESP32\u8bbe\u5907\u63a7\u5236\u670d\u52a1\u5668\u3002Backend service for xiaozhi-esp32, helps you quickly build an ESP32 device control server.",
+    "url": "https://github.com/xinnan-tech/xiaozhi-esp32-server",
+    "categories": [
+      "MCP Server"
+    ],
+    "source": {
+      "name": "GitHub MCP API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "integrates_with": "GitHub",
+      "runtime_requirements": "Node/Python"
+    }
+  },
+  {
+    "id": "460b7bbe-a289-4dec-a563-e4696e2d0005",
+    "entity_type": "MCP",
+    "name": "mcp",
+    "description": "Open source MCP Servers for AWS",
+    "url": "https://github.com/awslabs/mcp",
+    "categories": [
+      "MCP Server"
+    ],
+    "source": {
+      "name": "GitHub MCP API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "integrates_with": "GitHub",
+      "runtime_requirements": "Node/Python"
+    }
+  },
+  {
+    "id": "108276f6-b814-4c87-a1b9-75d4958e8234",
+    "entity_type": "MCP",
+    "name": "openstatus",
+    "description": "\ud83e\uded6 Status page with uptime monitoring & API monitoring as code \ud83e\uded6",
+    "url": "https://github.com/openstatusHQ/openstatus",
+    "categories": [
+      "MCP Server"
+    ],
+    "source": {
+      "name": "GitHub MCP API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "integrates_with": "GitHub",
+      "runtime_requirements": "Node/Python"
+    }
+  },
+  {
+    "id": "003f3366-80b5-4853-a4bd-416662ff6d0d",
+    "entity_type": "MCP",
+    "name": "lamda",
+    "description": "Android Full-Stack Device Control Platform: WebRTC/H.264 remote desktop, UI/OCR/image-matching automation, one-click MITM, built-in Frida, proxy/VPN/frp/P2P networking, MCP/Agent, 160+ APIs, designed for multi-device clusters and engineered deployments.",
+    "url": "https://github.com/firerpa/lamda",
+    "categories": [
+      "MCP Server"
+    ],
+    "source": {
+      "name": "GitHub MCP API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "integrates_with": "GitHub",
+      "runtime_requirements": "Node/Python"
+    }
+  },
+  {
+    "id": "2ea7da4a-5ba4-4936-b0da-8ce2c607d64c",
+    "entity_type": "MCP",
+    "name": "osaurus",
+    "description": "Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.",
+    "url": "https://github.com/osaurus-ai/osaurus",
+    "categories": [
+      "MCP Server"
+    ],
+    "source": {
+      "name": "GitHub MCP API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "integrates_with": "GitHub",
+      "runtime_requirements": "Node/Python"
+    }
+  },
+  {
+    "id": "50698660-83bb-4dd5-b8d8-a34fcaef554e",
+    "entity_type": "MCP",
+    "name": "Awesome-MCP-ZH",
+    "description": "MCP \u8d44\u6e90\u7cbe\u9009\uff0c MCP\u6307\u5357\uff0cClaude MCP\uff0cMCP Servers, MCP Clients",
+    "url": "https://github.com/yzfly/Awesome-MCP-ZH",
+    "categories": [
+      "MCP Server"
+    ],
+    "source": {
+      "name": "GitHub MCP API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "integrates_with": "GitHub",
+      "runtime_requirements": "Node/Python"
+    }
+  },
+  {
+    "id": "61f94ff3-b993-4046-b202-022652ed91ce",
+    "entity_type": "MCP",
+    "name": "bifrost",
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ models support & <100 \u00b5s overhead at 5k RPS.",
+    "url": "https://github.com/maximhq/bifrost",
+    "categories": [
+      "MCP Server"
+    ],
+    "source": {
+      "name": "GitHub MCP API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "integrates_with": "GitHub",
+      "runtime_requirements": "Node/Python"
+    }
+  },
+  {
+    "id": "9f8a01f0-2675-4c90-9be2-09f780e388f1",
+    "entity_type": "MCP",
+    "name": "browser-tools-mcp",
+    "description": "Monitor browser logs directly from Cursor and other MCP compatible IDEs.",
+    "url": "https://github.com/AgentDeskAI/browser-tools-mcp",
+    "categories": [
+      "MCP Server"
+    ],
+    "source": {
+      "name": "GitHub MCP API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "integrates_with": "GitHub",
+      "runtime_requirements": "Node/Python"
+    }
+  },
+  {
+    "id": "d4e27327-ea3b-4b17-a585-3a0784ed1a16",
+    "entity_type": "MCP",
+    "name": "firecrawl-mcp-server",
+    "description": "\ud83d\udd25 Official Firecrawl MCP Server - Adds powerful web scraping and search to Cursor, Claude and any other LLM clients.",
+    "url": "https://github.com/firecrawl/firecrawl-mcp-server",
+    "categories": [
+      "MCP Server"
+    ],
+    "source": {
+      "name": "GitHub MCP API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "integrates_with": "GitHub",
+      "runtime_requirements": "Node/Python"
+    }
+  },
+  {
+    "id": "706f052d-0b0c-4615-964d-89178e9137ec",
+    "entity_type": "MCP",
+    "name": "unstract",
+    "description": "LLM-Driven Extraction of Unstructured Data \u2014 Built for API Deployments & ETL Pipeline Workflows",
+    "url": "https://github.com/Zipstack/unstract",
+    "categories": [
+      "MCP Server"
+    ],
+    "source": {
+      "name": "GitHub MCP API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "integrates_with": "GitHub",
+      "runtime_requirements": "Node/Python"
+    }
+  },
+  {
+    "id": "f90039e6-0b66-4684-a84b-9dcb14c49170",
+    "entity_type": "MCP",
+    "name": "mcp",
+    "description": "Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser",
+    "url": "https://github.com/BrowserMCP/mcp",
+    "categories": [
+      "MCP Server"
+    ],
+    "source": {
+      "name": "GitHub MCP API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "integrates_with": "GitHub",
+      "runtime_requirements": "Node/Python"
+    }
+  },
+  {
+    "id": "54d63433-93cd-46c3-b85c-d983cb66c726",
+    "entity_type": "MCP",
+    "name": "XcodeBuildMCP",
+    "description": "A Model Context Protocol (MCP) server and CLI that provides tools for agent use when working on iOS and macOS projects.",
+    "url": "https://github.com/getsentry/XcodeBuildMCP",
+    "categories": [
+      "MCP Server"
+    ],
+    "source": {
+      "name": "GitHub MCP API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "integrates_with": "GitHub",
+      "runtime_requirements": "Node/Python"
+    }
+  },
+  {
+    "id": "d6f8741b-542d-41e6-9bbb-a470309e147b",
+    "entity_type": "MCP",
+    "name": "semble",
+    "description": "Fast and Accurate Code Search for Agents. Uses 99% fewer tokens than grep+read",
+    "url": "https://github.com/MinishLab/semble",
+    "categories": [
+      "MCP Server"
+    ],
+    "source": {
+      "name": "GitHub MCP API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "integrates_with": "GitHub",
+      "runtime_requirements": "Node/Python"
+    }
+  },
+  {
+    "id": "35005f0e-0c94-4a27-a14b-f851dd55204f",
+    "entity_type": "MCP",
+    "name": "klavis",
+    "description": "Klavis AI: MCP integration platforms that let AI agents use tools reliably at any scale",
+    "url": "https://github.com/Klavis-AI/klavis",
+    "categories": [
+      "MCP Server"
+    ],
+    "source": {
+      "name": "GitHub MCP API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "integrates_with": "GitHub",
+      "runtime_requirements": "Node/Python"
+    }
+  },
+  {
+    "id": "fa744e2c-1862-430d-a494-4a7789ac3417",
+    "entity_type": "MCP",
+    "name": "lemonade",
+    "description": "Lemonade helps users discover and run local AI apps by serving optimized LLMs right from their own GPUs and NPUs. Join our discord: https://discord.gg/5xXzkMu8Zk",
+    "url": "https://github.com/lemonade-sdk/lemonade",
+    "categories": [
+      "MCP Server"
+    ],
+    "source": {
+      "name": "GitHub MCP API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "integrates_with": "GitHub",
+      "runtime_requirements": "Node/Python"
+    }
+  },
+  {
+    "id": "492440b9-9c33-45bf-8241-78091849ab1c",
+    "entity_type": "MCP",
+    "name": "Viper",
+    "description": "Adversary simulation and Red teaming platform with AI",
+    "url": "https://github.com/FunnyWolf/Viper",
+    "categories": [
+      "MCP Server"
+    ],
+    "source": {
+      "name": "GitHub MCP API",
+      "url": "https://api.github.com"
+    },
+    "metadata": {
+      "integrates_with": "GitHub",
+      "runtime_requirements": "Node/Python"
+    }
+  },
+  {
+    "id": "23044ce7-8a76-4715-8f91-9a4b57a2f0fd",
+    "entity_type": "Models",
+    "name": "Qwen/Qwen3.8-27B",
+    "description": "Hugging Face model Qwen/Qwen3.8-27B",
+    "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+    "categories": [
+      "transformers",
+      "safetensors",
+      "qwen3_5"
+    ],
+    "source": {
+      "name": "Hugging Face API",
+      "url": "https://huggingface.co"
+    },
+    "metadata": {
+      "license": "apache-2.0",
+      "modalities": [
+        "text-generation"
+      ],
+      "provider": "Qwen"
+    }
+  },
+  {
+    "id": "cb2e5c49-a8ac-485c-878d-6fdc79e2c32b",
+    "entity_type": "Models",
+    "name": "meta-models/Muse-Glimmer-30B",
+    "description": "Hugging Face model meta-models/Muse-Glimmer-30B",
+    "url": "https://huggingface.co/meta-models/Muse-Glimmer-30B",
+    "categories": [
+      "transformers",
+      "safetensors",
+      "muse_glimmer"
+    ],
+    "source": {
+      "name": "Hugging Face API",
+      "url": "https://huggingface.co"
+    },
+    "metadata": {
+      "license": "apache-2.0",
+      "modalities": [
+        "text-generation"
+      ],
+      "provider": "meta-models"
+    }
+  },
+  {
+    "id": "48e1a124-2bae-4aac-ba9b-0ad885545418",
+    "entity_type": "Models",
+    "name": "unsloth/Qwen3.8-27B-GGUF",
+    "description": "Hugging Face model unsloth/Qwen3.8-27B-GGUF",
+    "url": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
+    "categories": [
+      "gguf",
+      "qwen3_5",
+      "unsloth"
+    ],
+    "source": {
+      "name": "Hugging Face API",
+      "url": "https://huggingface.co"
+    },
+    "metadata": {
+      "license": "apache-2.0",
+      "modalities": [
+        "text-generation"
+      ],
+      "provider": "unsloth"
+    }
+  },
+  {
+    "id": "172268e5-0976-420a-8a86-745b7c33a0ba",
+    "entity_type": "Models",
+    "name": "Qwen/Qwen3.8-2.4T-A95B",
+    "description": "Hugging Face model Qwen/Qwen3.8-2.4T-A95B",
+    "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
+    "categories": [
+      "transformers",
+      "safetensors",
+      "qwen3_5_moe_text"
+    ],
+    "source": {
+      "name": "Hugging Face API",
+      "url": "https://huggingface.co"
+    },
+    "metadata": {
+      "license": "apache-2.0",
+      "modalities": [
+        "text-generation"
+      ],
+      "provider": "Qwen"
+    }
+  },
+  {
+    "id": "4d06e151-f493-4a2e-9340-33af8351a4ae",
+    "entity_type": "Models",
+    "name": "Lightricks/LTX-2.5",
+    "description": "Hugging Face model Lightricks/LTX-2.5",
+    "url": "https://huggingface.co/Lightricks/LTX-2.5",
+    "categories": [
+      "diffusion-single-file",
+      "image-to-video",
+      "text-to-video"
+    ],
+    "source": {
+      "name": "Hugging Face API",
+      "url": "https://huggingface.co"
+    },
+    "metadata": {
+      "license": "apache-2.0",
+      "modalities": [
+        "text-generation"
+      ],
+      "provider": "Lightricks"
+    }
+  },
+  {
+    "id": "755bff64-2c0a-4e06-8151-64b1b233b953",
+    "entity_type": "Models",
+    "name": "MiniMaxAI/MiniMax-Music3",
+    "description": "Hugging Face model MiniMaxAI/MiniMax-Music3",
+    "url": "https://huggingface.co/MiniMaxAI/MiniMax-Music3",
+    "categories": [
+      "diffusers",
+      "safetensors",
+      "minimax_music3"
+    ],
+    "source": {
+      "name": "Hugging Face API",
+      "url": "https://huggingface.co"
+    },
+    "metadata": {
+      "license": "apache-2.0",
+      "modalities": [
+        "text-generation"
+      ],
+      "provider": "MiniMaxAI"
+    }
+  },
+  {
+    "id": "1df2501a-ba6c-4c74-a743-ef9ddf4585e4",
+    "entity_type": "Models",
+    "name": "MiniMaxAI/MiniMax-H3",
+    "description": "Hugging Face model MiniMaxAI/MiniMax-H3",
+    "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
+    "categories": [
+      "minimax-h3",
+      "diffusers",
+      "safetensors"
+    ],
+    "source": {
+      "name": "Hugging Face API",
+      "url": "https://huggingface.co"
+    },
+    "metadata": {
+      "license": "apache-2.0",
+      "modalities": [
+        "text-generation"
+      ],
+      "provider": "MiniMaxAI"
+    }
+  },
+  {
+    "id": "3b13ea25-c1e8-444a-ac97-a90e9071d9c1",
+    "entity_type": "Models",
+    "name": "deepseek-ai/DeepSeek-V4-Pro-0813",
+    "description": "Hugging Face model deepseek-ai/DeepSeek-V4-Pro-0813",
+    "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-0813",
+    "categories": [
+      "transformers",
+      "safetensors",
+      "deepseek_v4"
+    ],
+    "source": {
+      "name": "Hugging Face API",
+      "url": "https://huggingface.co"
+    },
+    "metadata": {
+      "license": "apache-2.0",
+      "modalities": [
+        "text-generation"
+      ],
+      "provider": "deepseek-ai"
+    }
+  },
+  {
+    "id": "b9398cde-9229-4289-8d0c-1728cc87647f",
+    "entity_type": "Models",
+    "name": "Qwen/Qwen3.8-27B-FP8",
+    "description": "Hugging Face model Qwen/Qwen3.8-27B-FP8",
+    "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+    "categories": [
+      "transformers",
+      "safetensors",
+      "qwen3_5"
+    ],
+    "source": {
+      "name": "Hugging Face API",
+      "url": "https://huggingface.co"
+    },
+    "metadata": {
+      "license": "apache-2.0",
+      "modalities": [
+        "text-generation"
+      ],
+      "provider": "Qwen"
+    }
+  },
+  {
+    "id": "4e297777-2600-4ff4-adf8-bf7cf98a68e9",
+    "entity_type": "Models",
+    "name": "unsloth/Muse-Glimmer-30B-GGUF",
+    "description": "Hugging Face model unsloth/Muse-Glimmer-30B-GGUF",
+    "url": "https://huggingface.co/unsloth/Muse-Glimmer-30B-GGUF",
+    "categories": [
+      "transformers",
+      "gguf",
+      "unsloth"
+    ],
+    "source": {
+      "name": "Hugging Face API",
+      "url": "https://huggingface.co"
+    },
+    "metadata": {
+      "license": "apache-2.0",
+      "modalities": [
+        "text-generation"
+      ],
+      "provider": "unsloth"
+    }
+  },
+  {
+    "id": "1ebe3dd7-571f-4044-93f6-d2c49147bbb8",
+    "entity_type": "Models",
+    "name": "deepseek-ai/DeepSeek-V4-Flash-0731",
+    "description": "Hugging Face model deepseek-ai/DeepSeek-V4-Flash-0731",
+    "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
+    "categories": [
+      "transformers",
+      "safetensors",
+      "deepseek_v4"
+    ],
+    "source": {
+      "name": "Hugging Face API",
+      "url": "https://huggingface.co"
+    },
+    "metadata": {
+      "license": "apache-2.0",
+      "modalities": [
+        "text-generation"
+      ],
+      "provider": "deepseek-ai"
+    }
+  },
+  {
+    "id": "cec75875-2634-4acd-a50d-46ece2e9337c",
+    "entity_type": "Models",
+    "name": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
+    "description": "Hugging Face model orcarouter/Qwen3.8-27B-Uncensored-FP8",
+    "url": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-FP8",
+    "categories": [
+      "transformers",
+      "safetensors",
+      "qwen3_5"
+    ],
+    "source": {
+      "name": "Hugging Face API",
+      "url": "https://huggingface.co"
+    },
+    "metadata": {
+      "license": "apache-2.0",
+      "modalities": [
+        "text-generation"
+      ],
+      "provider": "orcarouter"
+    }
+  },
+  {
+    "id": "8b954b78-2fed-4d1e-b147-1588c2e7aec0",
+    "entity_type": "Models",
+    "name": "lightx2v/Minimax-h3-Turbo",
+    "description": "Hugging Face model lightx2v/Minimax-h3-Turbo",
+    "url": "https://huggingface.co/lightx2v/Minimax-h3-Turbo",
+    "categories": [
+      "diffusers",
+      "t2v",
+      "i2v"
+    ],
+    "source": {
+      "name": "Hugging Face API",
+      "url": "https://huggingface.co"
+    },
+    "metadata": {
+      "license": "apache-2.0",
+      "modalities": [
+        "text-generation"
+      ],
+      "provider": "lightx2v"
+    }
+  },
+  {
+    "id": "c63bdae7-b484-45da-b46f-c2f815eea9ef",
+    "entity_type": "Models",
+    "name": "meta-models/Muse-Glimmer-30B-GGUF",
+    "description": "Hugging Face model meta-models/Muse-Glimmer-30B-GGUF",
+    "url": "https://huggingface.co/meta-models/Muse-Glimmer-30B-GGUF",
+    "categories": [
+      "gguf",
+      "image-text-to-text",
+      "arxiv:2504.13181"
+    ],
+    "source": {
+      "name": "Hugging Face API",
+      "url": "https://huggingface.co"
+    },
+    "metadata": {
+      "license": "apache-2.0",
+      "modalities": [
+        "text-generation"
+      ],
+      "provider": "meta-models"
+    }
+  },
+  {
+    "id": "ea5d6f18-deb0-48c8-babc-0428f045b671",
+    "entity_type": "Models",
+    "name": "inclusionAI/Ling-3.0-tiny",
+    "description": "Hugging Face model inclusionAI/Ling-3.0-tiny",
+    "url": "https://huggingface.co/inclusionAI/Ling-3.0-tiny",
+    "categories": [
+      "safetensors",
+      "bailing_hybrid",
+      "custom_code"
+    ],
+    "source": {
+      "name": "Hugging Face API",
+      "url": "https://huggingface.co"
+    },
+    "metadata": {
+      "license": "apache-2.0",
+      "modalities": [
+        "text-generation"
+      ],
+      "provider": "inclusionAI"
+    }
+  },
+  {
+    "id": "21cb5840-307a-4a75-a3f7-579e3bfec6d6",
+    "entity_type": "Models",
+    "name": "nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4",
+    "description": "Hugging Face model nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4",
+    "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4",
+    "categories": [
+      "transformers",
+      "safetensors",
+      "nemotron_h"
+    ],
+    "source": {
+      "name": "Hugging Face API",
+      "url": "https://huggingface.co"
+    },
+    "metadata": {
+      "license": "apache-2.0",
+      "modalities": [
+        "text-generation"
+      ],
+      "provider": "nvidia"
+    }
+  },
+  {
+    "id": "c1ee666d-876b-4281-94be-6e5b6c06f37c",
+    "entity_type": "Models",
+    "name": "moonshotai/Kimi-K3",
+    "description": "Hugging Face model moonshotai/Kimi-K3",
+    "url": "https://huggingface.co/moonshotai/Kimi-K3",
+    "categories": [
+      "transformers",
+      "safetensors",
+      "kimi_k3"
+    ],
+    "source": {
+      "name": "Hugging Face API",
+      "url": "https://huggingface.co"
+    },
+    "metadata": {
+      "license": "apache-2.0",
+      "modalities": [
+        "text-generation"
+      ],
+      "provider": "moonshotai"
+    }
+  },
+  {
+    "id": "e318ba1a-e33e-4331-ab5d-4e44f48117b0",
+    "entity_type": "Models",
+    "name": "Comfy-Org/MiniMax-H3",
+    "description": "Hugging Face model Comfy-Org/MiniMax-H3",
+    "url": "https://huggingface.co/Comfy-Org/MiniMax-H3",
+    "categories": [
+      "diffusion-single-file",
+      "comfyui",
+      "base_model:MiniMaxAI/MiniMax-H3"
+    ],
+    "source": {
+      "name": "Hugging Face API",
+      "url": "https://huggingface.co"
+    },
+    "metadata": {
+      "license": "apache-2.0",
+      "modalities": [
+        "text-generation"
+      ],
+      "provider": "Comfy-Org"
+    }
+  },
+  {
+    "id": "2a886d3b-9023-42a4-96b8-1ffddcbf4e2c",
+    "entity_type": "Models",
+    "name": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+    "description": "Hugging Face model DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+    "url": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+    "categories": [
+      "gguf",
+      "unsloth",
+      "fine tune"
+    ],
+    "source": {
+      "name": "Hugging Face API",
+      "url": "https://huggingface.co"
+    },
+    "metadata": {
+      "license": "apache-2.0",
+      "modalities": [
+        "text-generation"
+      ],
+      "provider": "DavidAU"
+    }
+  },
+  {
+    "id": "47ff3a9c-19db-47e2-96c3-6e32b2f7a61c",
+    "entity_type": "Models",
+    "name": "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
+    "description": "Hugging Face model JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
+    "url": "https://huggingface.co/JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
+    "categories": [
+      "llama.cpp",
+      "gguf",
+      "uncensored"
+    ],
+    "source": {
+      "name": "Hugging Face API",
+      "url": "https://huggingface.co"
+    },
+    "metadata": {
+      "license": "apache-2.0",
+      "modalities": [
+        "text-generation"
+      ],
+      "provider": "JonathanColetti"
+    }
+  },
+  {
+    "id": "43acc093-d436-4ac8-b83b-35cb56258623",
+    "entity_type": "Models",
+    "name": "fal/MiniMax-H3-Realism-People-LoRA",
+    "description": "Hugging Face model fal/MiniMax-H3-Realism-People-LoRA",
+    "url": "https://huggingface.co/fal/MiniMax-H3-Realism-People-LoRA",
+    "categories": [
+      "minimax-h3",
+      "lora",
+      "safetensors"
+    ],
+    "source": {
+      "name": "Hugging Face API",
+      "url": "https://huggingface.co"
+    },
+    "metadata": {
+      "license": "apache-2.0",
+      "modalities": [
+        "text-generation"
+      ],
+      "provider": "fal"
+    }
+  },
+  {
+    "id": "54ec4958-1832-4555-9ef9-e4b05e6e6301",
+    "entity_type": "Models",
+    "name": "Gazingstars123/Anima-2.9B",
+    "description": "Hugging Face model Gazingstars123/Anima-2.9B",
+    "url": "https://huggingface.co/Gazingstars123/Anima-2.9B",
+    "categories": [
+      "diffusion-single-file",
+      "anima",
+      "comfyui"
+    ],
+    "source": {
+      "name": "Hugging Face API",
+      "url": "https://huggingface.co"
+    },
+    "metadata": {
+      "license": "apache-2.0",
+      "modalities": [
+        "text-generation"
+      ],
+      "provider": "Gazingstars123"
+    }
+  },
+  {
+    "id": "7b65769b-d39c-48b5-8c2e-60fcbafda66a",
+    "entity_type": "Models",
+    "name": "unsloth/Qwen3.8-27B-NVFP4",
+    "description": "Hugging Face model unsloth/Qwen3.8-27B-NVFP4",
+    "url": "https://huggingface.co/unsloth/Qwen3.8-27B-NVFP4",
+    "categories": [
+      "safetensors",
+      "qwen3_5",
+      "unsloth"
+    ],
+    "source": {
+      "name": "Hugging Face API",
+      "url": "https://huggingface.co"
+    },
+    "metadata": {
+      "license": "apache-2.0",
+      "modalities": [
+        "text-generation"
+      ],
+      "provider": "unsloth"
+    }
+  },
+  {
+    "id": "d7fde6f0-e217-4fec-9ae2-cfddbf2ccb5f",
+    "entity_type": "Models",
+    "name": "Qwen/Qwen3.8-2.4T-A95B-FP8",
+    "description": "Hugging Face model Qwen/Qwen3.8-2.4T-A95B-FP8",
+    "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B-FP8",
+    "categories": [
+      "transformers",
+      "safetensors",
+      "qwen3_5_moe_text"
+    ],
+    "source": {
+      "name": "Hugging Face API",
+      "url": "https://huggingface.co"
+    },
+    "metadata": {
+      "license": "apache-2.0",
+      "modalities": [
+        "text-generation"
+      ],
+      "provider": "Qwen"
+    }
+  },
+  {
+    "id": "7358104f-f18b-465d-ac70-22d3ebaeff8c",
+    "entity_type": "Models",
+    "name": "dots-studio/dots3-note-prev",
+    "description": "Hugging Face model dots-studio/dots3-note-prev",
+    "url": "https://huggingface.co/dots-studio/dots3-note-prev",
+    "categories": [
+      "transformers",
+      "safetensors",
+      "dots3_note"
+    ],
+    "source": {
+      "name": "Hugging Face API",
+      "url": "https://huggingface.co"
+    },
+    "metadata": {
+      "license": "apache-2.0",
+      "modalities": [
+        "text-generation"
+      ],
+      "provider": "dots-studio"
+    }
+  },
+  {
+    "id": "a28c6f44-a37a-4d73-a226-090965139973",
+    "entity_type": "Models",
+    "name": "larryvrh/MiniMax-H3-Turbo-Lora",
+    "description": "Hugging Face model larryvrh/MiniMax-H3-Turbo-Lora",
+    "url": "https://huggingface.co/larryvrh/MiniMax-H3-Turbo-Lora",
+    "categories": [
+      "text-to-video",
+      "text-to-audio",
+      "audio-video"
+    ],
+    "source": {
+      "name": "Hugging Face API",
+      "url": "https://huggingface.co"
+    },
+    "metadata": {
+      "license": "apache-2.0",
+      "modalities": [
+        "text-generation"
+      ],
+      "provider": "larryvrh"
+    }
+  },
+  {
+    "id": "3a75c6da-4155-4102-85e8-819a2f6b908b",
+    "entity_type": "Models",
+    "name": "LiquidAI/LFM2.5-2.6B",
+    "description": "Hugging Face model LiquidAI/LFM2.5-2.6B",
+    "url": "https://huggingface.co/LiquidAI/LFM2.5-2.6B",
+    "categories": [
+      "transformers",
+      "safetensors",
+      "lfm2"
+    ],
+    "source": {
+      "name": "Hugging Face API",
+      "url": "https://huggingface.co"
+    },
+    "metadata": {
+      "license": "apache-2.0",
+      "modalities": [
+        "text-generation"
+      ],
+      "provider": "LiquidAI"
+    }
+  },
+  {
+    "id": "57af7044-acc3-4ffb-9dd9-660de18b87b5",
+    "entity_type": "Models",
+    "name": "nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-BF16",
+    "description": "Hugging Face model nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-BF16",
+    "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-BF16",
+    "categories": [
+      "transformers",
+      "safetensors",
+      "nemotron_h"
+    ],
+    "source": {
+      "name": "Hugging Face API",
+      "url": "https://huggingface.co"
+    },
+    "metadata": {
+      "license": "apache-2.0",
+      "modalities": [
+        "text-generation"
+      ],
+      "provider": "nvidia"
+    }
+  },
+  {
+    "id": "17e49934-3661-4846-b26c-0365ca39e211",
+    "entity_type": "Models",
+    "name": "Comfy-Org/MiniMax-Music-3",
+    "description": "Hugging Face model Comfy-Org/MiniMax-Music-3",
+    "url": "https://huggingface.co/Comfy-Org/MiniMax-Music-3",
+    "categories": [
+      "diffusion-single-file",
+      "comfyui",
+      "base_model:MiniMaxAI/MiniMax-Music3"
+    ],
+    "source": {
+      "name": "Hugging Face API",
+      "url": "https://huggingface.co"
+    },
+    "metadata": {
+      "license": "apache-2.0",
+      "modalities": [
+        "text-generation"
+      ],
+      "provider": "Comfy-Org"
+    }
+  },
+  {
+    "id": "cd8d7097-819e-4601-84b3-0501de1ff25d",
+    "entity_type": "Models",
+    "name": "LiquidAI/LFM2.5-VL-3B",
+    "description": "Hugging Face model LiquidAI/LFM2.5-VL-3B",
+    "url": "https://huggingface.co/LiquidAI/LFM2.5-VL-3B",
+    "categories": [
+      "transformers",
+      "safetensors",
+      "lfm2_vl"
+    ],
+    "source": {
+      "name": "Hugging Face API",
+      "url": "https://huggingface.co"
+    },
+    "metadata": {
+      "license": "apache-2.0",
+      "modalities": [
+        "text-generation"
+      ],
+      "provider": "LiquidAI"
+    }
+  },
+  {
+    "id": "2c80545f-c944-4ed1-b5bc-e4ab170248b7",
+    "entity_type": "Models",
+    "name": "froggeric/Qwen-Fixed-Chat-Templates",
+    "description": "Hugging Face model froggeric/Qwen-Fixed-Chat-Templates",
+    "url": "https://huggingface.co/froggeric/Qwen-Fixed-Chat-Templates",
+    "categories": [
+      "mlx",
+      "jinja",
+      "chat-template"
+    ],
+    "source": {
+      "name": "Hugging Face API",
+      "url": "https://huggingface.co"
+    },
+    "metadata": {
+      "license": "apache-2.0",
+      "modalities": [
+        "text-generation"
+      ],
+      "provider": "froggeric"
+    }
+  },
+  {
+    "id": "faf532c6-bde1-455d-b654-ad4ac06ac809",
+    "entity_type": "Models",
+    "name": "Cactus-Compute/needle2",
+    "description": "Hugging Face model Cactus-Compute/needle2",
+    "url": "https://huggingface.co/Cactus-Compute/needle2",
+    "categories": [
+      "cactus-needle",
+      "needle",
+      "tool-calling"
+    ],
+    "source": {
+      "name": "Hugging Face API",
+      "url": "https://huggingface.co"
+    },
+    "metadata": {
+      "license": "apache-2.0",
+      "modalities": [
+        "text-generation"
+      ],
+      "provider": "Cactus-Compute"
+    }
+  },
+  {
+    "id": "8ee1ff56-4019-41c6-88e9-c856875cdeb5",
+    "entity_type": "Models",
+    "name": "TenStrip/10Eros-Max",
+    "description": "Hugging Face model TenStrip/10Eros-Max",
+    "url": "https://huggingface.co/TenStrip/10Eros-Max",
+    "categories": [
+      "text-to-video",
+      "image-text-to-video",
+      "image-to-video"
+    ],
+    "source": {
+      "name": "Hugging Face API",
+      "url": "https://huggingface.co"
+    },
+    "metadata": {
+      "license": "apache-2.0",
+      "modalities": [
+        "text-generation"
+      ],
+      "provider": "TenStrip"
+    }
+  },
+  {
+    "id": "fd1bb590-9f93-42d1-a1fc-8f78ac753698",
+    "entity_type": "Models",
+    "name": "unsloth/MiniMax-H3-GGUF",
+    "description": "Hugging Face model unsloth/MiniMax-H3-GGUF",
+    "url": "https://huggingface.co/unsloth/MiniMax-H3-GGUF",
+    "categories": [
+      "gguf",
+      "text-to-video",
+      "image-to-video"
+    ],
+    "source": {
+      "name": "Hugging Face API",
+      "url": "https://huggingface.co"
+    },
+    "metadata": {
+      "license": "apache-2.0",
+      "modalities": [
+        "text-generation"
+      ],
+      "provider": "unsloth"
+    }
+  },
+  {
+    "id": "60ba2535-bef4-45e8-9560-7cfddacb848e",
+    "entity_type": "Models",
+    "name": "Blackfrost-AI/Qwen3.8-27B-ABLITERATED-GGUF",
+    "description": "Hugging Face model Blackfrost-AI/Qwen3.8-27B-ABLITERATED-GGUF",
+    "url": "https://huggingface.co/Blackfrost-AI/Qwen3.8-27B-ABLITERATED-GGUF",
+    "categories": [
+      "gguf",
+      "qwen3.8",
+      "qwen"
+    ],
+    "source": {
+      "name": "Hugging Face API",
+      "url": "https://huggingface.co"
+    },
+    "metadata": {
+      "license": "apache-2.0",
+      "modalities": [
+        "text-generation"
+      ],
+      "provider": "Blackfrost-AI"
+    }
+  },
+  {
+    "id": "b2a02670-c8ff-430e-b0df-372c846cb34c",
+    "entity_type": "Models",
+    "name": "IndexTeam/IndexTTS-2.5",
+    "description": "Hugging Face model IndexTeam/IndexTTS-2.5",
+    "url": "https://huggingface.co/IndexTeam/IndexTTS-2.5",
+    "categories": [
+      "indextts",
+      "safetensors",
+      "text-to-speech"
+    ],
+    "source": {
+      "name": "Hugging Face API",
+      "url": "https://huggingface.co"
+    },
+    "metadata": {
+      "license": "apache-2.0",
+      "modalities": [
+        "text-generation"
+      ],
+      "provider": "IndexTeam"
+    }
+  },
+  {
+    "id": "58bb6ffb-28a4-44b2-a898-e206e05e89c1",
+    "entity_type": "Models",
+    "name": "Motif-Technologies/Motif-3",
+    "description": "Hugging Face model Motif-Technologies/Motif-3",
+    "url": "https://huggingface.co/Motif-Technologies/Motif-3",
+    "categories": [
+      "transformers",
+      "safetensors",
+      "Motif"
+    ],
+    "source": {
+      "name": "Hugging Face API",
+      "url": "https://huggingface.co"
+    },
+    "metadata": {
+      "license": "apache-2.0",
+      "modalities": [
+        "text-generation"
+      ],
+      "provider": "Motif-Technologies"
+    }
+  },
+  {
+    "id": "004fd111-b9a2-4a63-b9a0-647442111746",
+    "entity_type": "Models",
+    "name": "HauhauCS/Qwen3.6-27B-Uncensored-HauhauCS-Aggressive",
+    "description": "Hugging Face model HauhauCS/Qwen3.6-27B-Uncensored-HauhauCS-Aggressive",
+    "url": "https://huggingface.co/HauhauCS/Qwen3.6-27B-Uncensored-HauhauCS-Aggressive",
+    "categories": [
+      "gguf",
+      "uncensored",
+      "qwen3.6"
+    ],
+    "source": {
+      "name": "Hugging Face API",
+      "url": "https://huggingface.co"
+    },
+    "metadata": {
+      "license": "apache-2.0",
+      "modalities": [
+        "text-generation"
+      ],
+      "provider": "HauhauCS"
+    }
+  },
+  {
+    "id": "a5e49368-ac8d-43fb-bd6c-9b4f8c575a8a",
+    "entity_type": "Models",
+    "name": "nvidia/NVIDIA-NemotronLabs-VoiceChat-11B",
+    "description": "Hugging Face model nvidia/NVIDIA-NemotronLabs-VoiceChat-11B",
+    "url": "https://huggingface.co/nvidia/NVIDIA-NemotronLabs-VoiceChat-11B",
+    "categories": [
+      "safetensors",
+      "en",
+      "arxiv:2410.17196"
+    ],
+    "source": {
+      "name": "Hugging Face API",
+      "url": "https://huggingface.co"
+    },
+    "metadata": {
+      "license": "apache-2.0",
+      "modalities": [
+        "text-generation"
+      ],
+      "provider": "nvidia"
+    }
+  },
+  {
+    "id": "bea3187c-7af5-4516-8fb5-3cd439330974",
+    "entity_type": "Models",
+    "name": "Kijai/MiniMax-H3_comfy",
+    "description": "Hugging Face model Kijai/MiniMax-H3_comfy",
+    "url": "https://huggingface.co/Kijai/MiniMax-H3_comfy",
+    "categories": [
+      "region:us"
+    ],
+    "source": {
+      "name": "Hugging Face API",
+      "url": "https://huggingface.co"
+    },
+    "metadata": {
+      "license": "apache-2.0",
+      "modalities": [
+        "text-generation"
+      ],
+      "provider": "Kijai"
+    }
+  },
+  {
+    "id": "0eaa5dac-e1ac-4cb0-9b2b-b61e5149968f",
+    "entity_type": "Models",
+    "name": "CohereLabs/North-Micro-Vision-Instruct",
+    "description": "Hugging Face model CohereLabs/North-Micro-Vision-Instruct",
+    "url": "https://huggingface.co/CohereLabs/North-Micro-Vision-Instruct",
+    "categories": [
+      "transformers",
+      "safetensors",
+      "cohere_compass"
+    ],
+    "source": {
+      "name": "Hugging Face API",
+      "url": "https://huggingface.co"
+    },
+    "metadata": {
+      "license": "apache-2.0",
+      "modalities": [
+        "text-generation"
+      ],
+      "provider": "CohereLabs"
+    }
+  },
+  {
+    "id": "b0d6940d-43ab-4ad9-bf97-74e45e7bad61",
+    "entity_type": "Models",
+    "name": "unsloth/Qwen3.8-2.4T-A95B-GGUF",
+    "description": "Hugging Face model unsloth/Qwen3.8-2.4T-A95B-GGUF",
+    "url": "https://huggingface.co/unsloth/Qwen3.8-2.4T-A95B-GGUF",
+    "categories": [
+      "transformers",
+      "gguf",
+      "unsloth"
+    ],
+    "source": {
+      "name": "Hugging Face API",
+      "url": "https://huggingface.co"
+    },
+    "metadata": {
+      "license": "apache-2.0",
+      "modalities": [
+        "text-generation"
+      ],
+      "provider": "unsloth"
+    }
+  },
+  {
+    "id": "39636442-7d96-4a21-9e62-fc6ab9740de7",
+    "entity_type": "Models",
+    "name": "AEON-7/Qwen3.8-27B-AEON-ULTIMATE-UNCENSORED-BF16",
+    "description": "Hugging Face model AEON-7/Qwen3.8-27B-AEON-ULTIMATE-UNCENSORED-BF16",
+    "url": "https://huggingface.co/AEON-7/Qwen3.8-27B-AEON-ULTIMATE-UNCENSORED-BF16",
+    "categories": [
+      "transformers",
+      "safetensors",
+      "qwen3_5"
+    ],
+    "source": {
+      "name": "Hugging Face API",
+      "url": "https://huggingface.co"
+    },
+    "metadata": {
+      "license": "apache-2.0",
+      "modalities": [
+        "text-generation"
+      ],
+      "provider": "AEON-7"
+    }
+  },
+  {
+    "id": "dfd44c85-1059-43ab-b244-a321bcb3121d",
+    "entity_type": "Models",
+    "name": "0bserverx/Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
+    "description": "Hugging Face model 0bserverx/Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
+    "url": "https://huggingface.co/0bserverx/Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
+    "categories": [
+      "transformers",
+      "gguf",
+      "qwen3.8"
+    ],
+    "source": {
+      "name": "Hugging Face API",
+      "url": "https://huggingface.co"
+    },
+    "metadata": {
+      "license": "apache-2.0",
+      "modalities": [
+        "text-generation"
+      ],
+      "provider": "0bserverx"
+    }
+  },
+  {
+    "id": "5c05623a-14c9-46ba-b86c-e7b57747b50d",
+    "entity_type": "Models",
+    "name": "empero-ai/Qwen3.8-27B-Ridge-GGUF",
+    "description": "Hugging Face model empero-ai/Qwen3.8-27B-Ridge-GGUF",
+    "url": "https://huggingface.co/empero-ai/Qwen3.8-27B-Ridge-GGUF",
+    "categories": [
+      "gguf",
+      "llama.cpp",
+      "quantized"
+    ],
+    "source": {
+      "name": "Hugging Face API",
+      "url": "https://huggingface.co"
+    },
+    "metadata": {
+      "license": "apache-2.0",
+      "modalities": [
+        "text-generation"
+      ],
+      "provider": "empero-ai"
+    }
+  },
+  {
+    "id": "c458f2c4-900e-4e91-abec-9e67ee7df6a8",
+    "entity_type": "Models",
+    "name": "drbaph/MiniMax-H3-Turbo-Lora-ComfyUI",
+    "description": "Hugging Face model drbaph/MiniMax-H3-Turbo-Lora-ComfyUI",
+    "url": "https://huggingface.co/drbaph/MiniMax-H3-Turbo-Lora-ComfyUI",
+    "categories": [
+      "minimax-h3",
+      "lora",
+      "adapter"
+    ],
+    "source": {
+      "name": "Hugging Face API",
+      "url": "https://huggingface.co"
+    },
+    "metadata": {
+      "license": "apache-2.0",
+      "modalities": [
+        "text-generation"
+      ],
+      "provider": "drbaph"
+    }
+  },
+  {
+    "id": "002cf411-c82c-4923-b9a2-274b7c0c3c96",
+    "entity_type": "Models",
+    "name": "AtomicChat/Qwen3.8-27B-GGUF",
+    "description": "Hugging Face model AtomicChat/Qwen3.8-27B-GGUF",
+    "url": "https://huggingface.co/AtomicChat/Qwen3.8-27B-GGUF",
+    "categories": [
+      "gguf",
+      "llama.cpp",
+      "qwen3.8"
+    ],
+    "source": {
+      "name": "Hugging Face API",
+      "url": "https://huggingface.co"
+    },
+    "metadata": {
+      "license": "apache-2.0",
+      "modalities": [
+        "text-generation"
+      ],
+      "provider": "AtomicChat"
+    }
+  },
+  {
+    "id": "d1055191-7d63-4491-9f20-1304c7008ed9",
+    "entity_type": "Models",
+    "name": "SexGod1979/PinkCherry_MiniMax-H3",
+    "description": "Hugging Face model SexGod1979/PinkCherry_MiniMax-H3",
+    "url": "https://huggingface.co/SexGod1979/PinkCherry_MiniMax-H3",
+    "categories": [
+      "transformers",
+      "minimax-h3",
+      "text-to-video"
+    ],
+    "source": {
+      "name": "Hugging Face API",
+      "url": "https://huggingface.co"
+    },
+    "metadata": {
+      "license": "apache-2.0",
+      "modalities": [
+        "text-generation"
+      ],
+      "provider": "SexGod1979"
+    }
+  },
+  {
+    "id": "b2a97ea4-544d-4e12-981a-cd71e64ba4ea",
+    "entity_type": "Models",
+    "name": "DavidAU/Qwen3.8-27B-Cold-Fusion-GAIN-V1.1",
+    "description": "Hugging Face model DavidAU/Qwen3.8-27B-Cold-Fusion-GAIN-V1.1",
+    "url": "https://huggingface.co/DavidAU/Qwen3.8-27B-Cold-Fusion-GAIN-V1.1",
+    "categories": [
+      "transformers",
+      "safetensors",
+      "qwen3_5"
+    ],
+    "source": {
+      "name": "Hugging Face API",
+      "url": "https://huggingface.co"
+    },
+    "metadata": {
+      "license": "apache-2.0",
+      "modalities": [
+        "text-generation"
+      ],
+      "provider": "DavidAU"
+    }
+  },
+  {
+    "id": "826088a0-01f6-4cf5-b7c3-bd8528d5e556",
+    "entity_type": "Models",
+    "name": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+    "description": "Hugging Face model HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+    "url": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+    "categories": [
+      "gguf",
+      "uncensored",
+      "qwen3.6"
+    ],
+    "source": {
+      "name": "Hugging Face API",
+      "url": "https://huggingface.co"
+    },
+    "metadata": {
+      "license": "apache-2.0",
+      "modalities": [
+        "text-generation"
+      ],
+      "provider": "HauhauCS"
+    }
+  },
+  {
+    "id": "0d701400-2df1-4f6e-a078-755322d20c18",
+    "entity_type": "Models",
+    "name": "PocketAiHub/Qwen3.8-27B-Abliterated-MLX",
+    "description": "Hugging Face model PocketAiHub/Qwen3.8-27B-Abliterated-MLX",
+    "url": "https://huggingface.co/PocketAiHub/Qwen3.8-27B-Abliterated-MLX",
+    "categories": [
+      "mlx",
+      "safetensors",
+      "mlx-vlm"
+    ],
+    "source": {
+      "name": "Hugging Face API",
+      "url": "https://huggingface.co"
+    },
+    "metadata": {
+      "license": "apache-2.0",
+      "modalities": [
+        "text-generation"
+      ],
+      "provider": "PocketAiHub"
+    }
+  },
+  {
+    "id": "43cf4651-43f7-4984-b575-928c2b97262e",
+    "entity_type": "Models",
+    "name": "ethanfel/Qwen3-VL-32B-Ultra-Heretic-H3-ComfyUI-INT8-ConvRot",
+    "description": "Hugging Face model ethanfel/Qwen3-VL-32B-Ultra-Heretic-H3-ComfyUI-INT8-ConvRot",
+    "url": "https://huggingface.co/ethanfel/Qwen3-VL-32B-Ultra-Heretic-H3-ComfyUI-INT8-ConvRot",
+    "categories": [
+      "comfyui",
+      "h3",
+      "qwen3-vl"
+    ],
+    "source": {
+      "name": "Hugging Face API",
+      "url": "https://huggingface.co"
+    },
+    "metadata": {
+      "license": "apache-2.0",
+      "modalities": [
+        "text-generation"
+      ],
+      "provider": "ethanfel"
+    }
+  },
+  {
+    "id": "a1249d18-cf97-4d8a-b260-fb16cda808bc",
+    "entity_type": "Models",
+    "name": "empero-ai/Qwen3.8-9B",
+    "description": "Hugging Face model empero-ai/Qwen3.8-9B",
+    "url": "https://huggingface.co/empero-ai/Qwen3.8-9B",
+    "categories": [
+      "transformers",
+      "safetensors",
+      "qwen3_5"
+    ],
+    "source": {
+      "name": "Hugging Face API",
+      "url": "https://huggingface.co"
+    },
+    "metadata": {
+      "license": "apache-2.0",
+      "modalities": [
+        "text-generation"
+      ],
+      "provider": "empero-ai"
+    }
+  },
+  {
+    "id": "04351fcc-faaa-4060-87dc-7a07165a2522",
+    "entity_type": "Models",
+    "name": "unsloth/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-GGUF",
+    "description": "Hugging Face model unsloth/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-GGUF",
+    "url": "https://huggingface.co/unsloth/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-GGUF",
+    "categories": [
+      "transformers",
+      "gguf",
+      "nvidia"
+    ],
+    "source": {
+      "name": "Hugging Face API",
+      "url": "https://huggingface.co"
+    },
+    "metadata": {
+      "license": "apache-2.0",
+      "modalities": [
+        "text-generation"
+      ],
+      "provider": "unsloth"
+    }
+  },
+  {
+    "id": "e692e38b-3b2b-4399-816c-67204cde3f5b",
+    "entity_type": "Models",
+    "name": "bartowski/Qwen3.8-27B-GGUF",
+    "description": "Hugging Face model bartowski/Qwen3.8-27B-GGUF",
+    "url": "https://huggingface.co/bartowski/Qwen3.8-27B-GGUF",
+    "categories": [
+      "gguf",
+      "image-text-to-text",
+      "base_model:Qwen/Qwen3.8-27B"
+    ],
+    "source": {
+      "name": "Hugging Face API",
+      "url": "https://huggingface.co"
+    },
+    "metadata": {
+      "license": "apache-2.0",
+      "modalities": [
+        "text-generation"
+      ],
+      "provider": "bartowski"
+    }
+  },
+  {
+    "id": "85b654ce-e96e-4e16-95d2-9443e38045d7",
+    "entity_type": "Models",
+    "name": "deepgrove/maple-preview",
+    "description": "Hugging Face model deepgrove/maple-preview",
+    "url": "https://huggingface.co/deepgrove/maple-preview",
+    "categories": [
+      "transformers",
+      "safetensors",
+      "text-generation"
+    ],
+    "source": {
+      "name": "Hugging Face API",
+      "url": "https://huggingface.co"
+    },
+    "metadata": {
+      "license": "apache-2.0",
+      "modalities": [
+        "text-generation"
+      ],
+      "provider": "deepgrove"
+    }
+  },
+  {
+    "id": "80ab3a67-63af-4967-8c3a-1fd865264b00",
+    "entity_type": "Models",
+    "name": "DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF",
+    "description": "Hugging Face model DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF",
+    "url": "https://huggingface.co/DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF",
+    "categories": [
+      "gguf",
+      "MTP GGUFS",
+      "Regular GGUFS"
+    ],
+    "source": {
+      "name": "Hugging Face API",
+      "url": "https://huggingface.co"
+    },
+    "metadata": {
+      "license": "apache-2.0",
+      "modalities": [
+        "text-generation"
+      ],
+      "provider": "DavidAU"
+    }
+  },
+  {
+    "id": "593d34e2-bf51-49c7-b14e-43fe8b7a0e26",
+    "entity_type": "Models",
+    "name": "Alissonerdx/CharacterSheet",
+    "description": "Hugging Face model Alissonerdx/CharacterSheet",
+    "url": "https://huggingface.co/Alissonerdx/CharacterSheet",
+    "categories": [
+      "lora",
+      "comfyui",
+      "flux.2"
+    ],
+    "source": {
+      "name": "Hugging Face API",
+      "url": "https://huggingface.co"
+    },
+    "metadata": {
+      "license": "apache-2.0",
+      "modalities": [
+        "text-generation"
+      ],
+      "provider": "Alissonerdx"
+    }
+  },
+  {
+    "id": "fe2a9f0f-cfed-40e3-a5ed-aa2988e7072c",
+    "entity_type": "Models",
+    "name": "endless-frontier/BigBang-v1",
+    "description": "Hugging Face model endless-frontier/BigBang-v1",
+    "url": "https://huggingface.co/endless-frontier/BigBang-v1",
+    "categories": [
+      "transformers",
+      "safetensors",
+      "qwen3_5_moe"
+    ],
+    "source": {
+      "name": "Hugging Face API",
+      "url": "https://huggingface.co"
+    },
+    "metadata": {
+      "license": "apache-2.0",
+      "modalities": [
+        "text-generation"
+      ],
+      "provider": "endless-frontier"
+    }
+  },
+  {
+    "id": "3642ca74-2f65-4ff6-91d0-1cda9725a57e",
+    "entity_type": "Models",
+    "name": "huihui-ai/Huihui-CyberStrike-OffSec-35B-abliterated",
+    "description": "Hugging Face model huihui-ai/Huihui-CyberStrike-OffSec-35B-abliterated",
+    "url": "https://huggingface.co/huihui-ai/Huihui-CyberStrike-OffSec-35B-abliterated",
+    "categories": [
+      "transformers",
+      "safetensors",
+      "qwen3_5_moe"
+    ],
+    "source": {
+      "name": "Hugging Face API",
+      "url": "https://huggingface.co"
+    },
+    "metadata": {
+      "license": "apache-2.0",
+      "modalities": [
+        "text-generation"
+      ],
+      "provider": "huihui-ai"
+    }
+  },
+  {
+    "id": "5dcafb5f-e02e-46a3-bd96-3143a2b6658d",
+    "entity_type": "Models",
+    "name": "huihui-ai/Huihui-Qwen3.8-27B-abliterated",
+    "description": "Hugging Face model huihui-ai/Huihui-Qwen3.8-27B-abliterated",
+    "url": "https://huggingface.co/huihui-ai/Huihui-Qwen3.8-27B-abliterated",
+    "categories": [
+      "transformers",
+      "safetensors",
+      "qwen3_5"
+    ],
+    "source": {
+      "name": "Hugging Face API",
+      "url": "https://huggingface.co"
+    },
+    "metadata": {
+      "license": "apache-2.0",
+      "modalities": [
+        "text-generation"
+      ],
+      "provider": "huihui-ai"
+    }
+  },
+  {
+    "id": "e93044fe-ace0-4507-9d32-786925d02a04",
+    "entity_type": "Models",
+    "name": "webAI-Official/TwIL-LM3",
+    "description": "Hugging Face model webAI-Official/TwIL-LM3",
+    "url": "https://huggingface.co/webAI-Official/TwIL-LM3",
+    "categories": [
+      "transformers",
+      "safetensors",
+      "gguf"
+    ],
+    "source": {
+      "name": "Hugging Face API",
+      "url": "https://huggingface.co"
+    },
+    "metadata": {
+      "license": "apache-2.0",
+      "modalities": [
+        "text-generation"
+      ],
+      "provider": "webAI-Official"
+    }
+  },
+  {
+    "id": "9c4f1d57-1f9e-4be4-bc43-171193232c4b",
+    "entity_type": "Models",
+    "name": "baidu/Unlimited-OCR",
+    "description": "Hugging Face model baidu/Unlimited-OCR",
+    "url": "https://huggingface.co/baidu/Unlimited-OCR",
+    "categories": [
+      "transformers",
+      "safetensors",
+      "unlimited-ocr"
+    ],
+    "source": {
+      "name": "Hugging Face API",
+      "url": "https://huggingface.co"
+    },
+    "metadata": {
+      "license": "apache-2.0",
+      "modalities": [
+        "text-generation"
+      ],
+      "provider": "baidu"
+    }
+  },
+  {
+    "id": "af36272d-ecf2-45d9-b7af-407c30f2655d",
+    "entity_type": "Models",
+    "name": "inclusionAI/Ling-3.0-flash",
+    "description": "Hugging Face model inclusionAI/Ling-3.0-flash",
+    "url": "https://huggingface.co/inclusionAI/Ling-3.0-flash",
+    "categories": [
+      "safetensors",
+      "bailing_hybrid",
+      "text-generation"
+    ],
+    "source": {
+      "name": "Hugging Face API",
+      "url": "https://huggingface.co"
+    },
+    "metadata": {
+      "license": "apache-2.0",
+      "modalities": [
+        "text-generation"
+      ],
+      "provider": "inclusionAI"
+    }
+  },
+  {
+    "id": "d32fa82c-ec2d-40d7-8e8d-9302885809e3",
+    "entity_type": "Models",
+    "name": "trohrbaugh/Qwen3.8-27B-heretic-ara",
+    "description": "Hugging Face model trohrbaugh/Qwen3.8-27B-heretic-ara",
+    "url": "https://huggingface.co/trohrbaugh/Qwen3.8-27B-heretic-ara",
+    "categories": [
+      "transformers",
+      "safetensors",
+      "qwen3_5"
+    ],
+    "source": {
+      "name": "Hugging Face API",
+      "url": "https://huggingface.co"
+    },
+    "metadata": {
+      "license": "apache-2.0",
+      "modalities": [
+        "text-generation"
+      ],
+      "provider": "trohrbaugh"
+    }
+  },
+  {
+    "id": "ce6d22ef-4516-4052-a7b7-bd970834bcfd",
+    "entity_type": "Models",
+    "name": "zai-org/GLM-5.2",
+    "description": "Hugging Face model zai-org/GLM-5.2",
+    "url": "https://huggingface.co/zai-org/GLM-5.2",
+    "categories": [
+      "transformers",
+      "safetensors",
+      "glm_moe_dsa"
+    ],
+    "source": {
+      "name": "Hugging Face API",
+      "url": "https://huggingface.co"
+    },
+    "metadata": {
+      "license": "apache-2.0",
+      "modalities": [
+        "text-generation"
+      ],
+      "provider": "zai-org"
+    }
+  },
+  {
+    "id": "2f6691c1-f6fe-4faa-8efa-7a94de4fa3dc",
+    "entity_type": "Models",
+    "name": "audnai/penclaw-Kimi-K3.0-abliterated-GGUF",
+    "description": "Hugging Face model audnai/penclaw-Kimi-K3.0-abliterated-GGUF",
+    "url": "https://huggingface.co/audnai/penclaw-Kimi-K3.0-abliterated-GGUF",
+    "categories": [
+      "gguf",
+      "endpoints_compatible",
+      "region:us"
+    ],
+    "source": {
+      "name": "Hugging Face API",
+      "url": "https://huggingface.co"
+    },
+    "metadata": {
+      "license": "apache-2.0",
+      "modalities": [
+        "text-generation"
+      ],
+      "provider": "audnai"
+    }
+  },
+  {
+    "id": "2bb6a4dc-a22a-4919-8a56-fb020edf3a57",
+    "entity_type": "Models",
+    "name": "Kijai/MiniMax-H3-experimental",
+    "description": "Hugging Face model Kijai/MiniMax-H3-experimental",
+    "url": "https://huggingface.co/Kijai/MiniMax-H3-experimental",
+    "categories": [
+      "region:us"
+    ],
+    "source": {
+      "name": "Hugging Face API",
+      "url": "https://huggingface.co"
+    },
+    "metadata": {
+      "license": "apache-2.0",
+      "modalities": [
+        "text-generation"
+      ],
+      "provider": "Kijai"
+    }
+  },
+  {
+    "id": "dab1025e-4e88-4d1d-8599-f65fa8b9f2e0",
+    "entity_type": "Models",
+    "name": "NicoLab28/ClipProj-MiniMax-H3",
+    "description": "Hugging Face model NicoLab28/ClipProj-MiniMax-H3",
+    "url": "https://huggingface.co/NicoLab28/ClipProj-MiniMax-H3",
+    "categories": [
+      "comfyui",
+      "minimax-h3",
+      "text-to-video"
+    ],
+    "source": {
+      "name": "Hugging Face API",
+      "url": "https://huggingface.co"
+    },
+    "metadata": {
+      "license": "apache-2.0",
+      "modalities": [
+        "text-generation"
+      ],
+      "provider": "NicoLab28"
+    }
+  },
+  {
+    "id": "6e4cb71a-26cc-4e98-b275-c1947cac8944",
+    "entity_type": "Models",
+    "name": "meta-models/Muse-Glimmer-30B-assistant",
+    "description": "Hugging Face model meta-models/Muse-Glimmer-30B-assistant",
+    "url": "https://huggingface.co/meta-models/Muse-Glimmer-30B-assistant",
+    "categories": [
+      "transformers",
+      "safetensors",
+      "muse_glimmer_assistant"
+    ],
+    "source": {
+      "name": "Hugging Face API",
+      "url": "https://huggingface.co"
+    },
+    "metadata": {
+      "license": "apache-2.0",
+      "modalities": [
+        "text-generation"
+      ],
+      "provider": "meta-models"
+    }
+  },
+  {
+    "id": "844b2625-ed66-4b40-9285-282695b68be7",
+    "entity_type": "Models",
+    "name": "smhfacct/Minimax-H3-fl2va-ref2va-hybrid-models",
+    "description": "Hugging Face model smhfacct/Minimax-H3-fl2va-ref2va-hybrid-models",
+    "url": "https://huggingface.co/smhfacct/Minimax-H3-fl2va-ref2va-hybrid-models",
+    "categories": [
+      "video-generation",
+      "text-to-video",
+      "image-to-video"
+    ],
+    "source": {
+      "name": "Hugging Face API",
+      "url": "https://huggingface.co"
+    },
+    "metadata": {
+      "license": "apache-2.0",
+      "modalities": [
+        "text-generation"
+      ],
+      "provider": "smhfacct"
+    }
+  },
+  {
+    "id": "6f2d96ec-8fde-4d84-a7d1-4834d150fd12",
+    "entity_type": "Models",
+    "name": "Wan-AI/Wan2.2-Animate-2-14B",
+    "description": "Hugging Face model Wan-AI/Wan2.2-Animate-2-14B",
+    "url": "https://huggingface.co/Wan-AI/Wan2.2-Animate-2-14B",
+    "categories": [
+      "arxiv:2608.06009",
+      "license:apache-2.0",
+      "region:us"
+    ],
+    "source": {
+      "name": "Hugging Face API",
+      "url": "https://huggingface.co"
+    },
+    "metadata": {
+      "license": "apache-2.0",
+      "modalities": [
+        "text-generation"
+      ],
+      "provider": "Wan-AI"
+    }
+  },
+  {
+    "id": "479b2ffa-59d0-4d1d-b66d-da09899a6c25",
+    "entity_type": "Models",
+    "name": "black-forest-labs/FLUX.1-dev",
+    "description": "Hugging Face model black-forest-labs/FLUX.1-dev",
+    "url": "https://huggingface.co/black-forest-labs/FLUX.1-dev",
+    "categories": [
+      "diffusers",
+      "safetensors",
+      "text-to-image"
+    ],
+    "source": {
+      "name": "Hugging Face API",
+      "url": "https://huggingface.co"
+    },
+    "metadata": {
+      "license": "apache-2.0",
+      "modalities": [
+        "text-generation"
+      ],
+      "provider": "black-forest-labs"
+    }
+  },
+  {
+    "id": "f8d0abb5-0ab4-4a13-9d00-d0aefcbc6087",
+    "entity_type": "Models",
+    "name": "unsloth/DeepSeek-V4-Flash-0731-GGUF",
+    "description": "Hugging Face model unsloth/DeepSeek-V4-Flash-0731-GGUF",
+    "url": "https://huggingface.co/unsloth/DeepSeek-V4-Flash-0731-GGUF",
+    "categories": [
+      "gguf",
+      "unsloth",
+      "deepseek_v4"
+    ],
+    "source": {
+      "name": "Hugging Face API",
+      "url": "https://huggingface.co"
+    },
+    "metadata": {
+      "license": "apache-2.0",
+      "modalities": [
+        "text-generation"
+      ],
+      "provider": "unsloth"
+    }
+  },
+  {
+    "id": "a80a5c22-b10c-43f7-90ec-9dd69c2c3e9e",
+    "entity_type": "Models",
+    "name": "google/gemma-4-31B-it",
+    "description": "Hugging Face model google/gemma-4-31B-it",
+    "url": "https://huggingface.co/google/gemma-4-31B-it",
+    "categories": [
+      "transformers",
+      "safetensors",
+      "gemma4"
+    ],
+    "source": {
+      "name": "Hugging Face API",
+      "url": "https://huggingface.co"
+    },
+    "metadata": {
+      "license": "apache-2.0",
+      "modalities": [
+        "text-generation"
+      ],
+      "provider": "google"
+    }
+  },
+  {
+    "id": "f6fd1cb8-90b2-4681-bc97-c05a21b90a62",
+    "entity_type": "Models",
+    "name": "Inner-Reflections/MiniMax-H3-Looping-Sketch-Anime",
+    "description": "Hugging Face model Inner-Reflections/MiniMax-H3-Looping-Sketch-Anime",
+    "url": "https://huggingface.co/Inner-Reflections/MiniMax-H3-Looping-Sketch-Anime",
+    "categories": [
+      "base_model:Comfy-Org/MiniMax-H3",
+      "base_model:finetune:Comfy-Org/MiniMax-H3",
+      "region:us"
+    ],
+    "source": {
+      "name": "Hugging Face API",
+      "url": "https://huggingface.co"
+    },
+    "metadata": {
+      "license": "apache-2.0",
+      "modalities": [
+        "text-generation"
+      ],
+      "provider": "Inner-Reflections"
+    }
+  },
+  {
+    "id": "d26e0d13-c795-4d28-b6d4-711d8066ff21",
+    "entity_type": "Models",
+    "name": "Qwen/Qwen3.6-27B",
+    "description": "Hugging Face model Qwen/Qwen3.6-27B",
+    "url": "https://huggingface.co/Qwen/Qwen3.6-27B",
+    "categories": [
+      "transformers",
+      "safetensors",
+      "qwen3_5"
+    ],
+    "source": {
+      "name": "Hugging Face API",
+      "url": "https://huggingface.co"
+    },
+    "metadata": {
+      "license": "apache-2.0",
+      "modalities": [
+        "text-generation"
+      ],
+      "provider": "Qwen"
+    }
+  },
+  {
+    "id": "847f85a5-7d38-4665-bc26-4b65da2e5da0",
+    "entity_type": "Models",
+    "name": "Youssofal/Qwen3.8-27B-MTPLX-Optimized-Speed",
+    "description": "Hugging Face model Youssofal/Qwen3.8-27B-MTPLX-Optimized-Speed",
+    "url": "https://huggingface.co/Youssofal/Qwen3.8-27B-MTPLX-Optimized-Speed",
+    "categories": [
+      "mlx",
+      "safetensors",
+      "qwen3_5"
+    ],
+    "source": {
+      "name": "Hugging Face API",
+      "url": "https://huggingface.co"
+    },
+    "metadata": {
+      "license": "apache-2.0",
+      "modalities": [
+        "text-generation"
+      ],
+      "provider": "Youssofal"
+    }
+  },
+  {
+    "id": "5a7ac0a3-9c33-4a5f-b4a3-5343fd45c497",
+    "entity_type": "Models",
+    "name": "empero-ai/Qwen3.8-9B-GGUF",
+    "description": "Hugging Face model empero-ai/Qwen3.8-9B-GGUF",
+    "url": "https://huggingface.co/empero-ai/Qwen3.8-9B-GGUF",
+    "categories": [
+      "gguf",
+      "llama.cpp",
+      "quantized"
+    ],
+    "source": {
+      "name": "Hugging Face API",
+      "url": "https://huggingface.co"
+    },
+    "metadata": {
+      "license": "apache-2.0",
+      "modalities": [
+        "text-generation"
+      ],
+      "provider": "empero-ai"
+    }
+  },
+  {
+    "id": "82610e5d-cee9-4c51-b79b-4c23a902e584",
+    "entity_type": "Models",
+    "name": "deepseek-ai/DeepSeek-V4-Pro",
+    "description": "Hugging Face model deepseek-ai/DeepSeek-V4-Pro",
+    "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
+    "categories": [
+      "transformers",
+      "safetensors",
+      "deepseek_v4"
+    ],
+    "source": {
+      "name": "Hugging Face API",
+      "url": "https://huggingface.co"
+    },
+    "metadata": {
+      "license": "apache-2.0",
+      "modalities": [
+        "text-generation"
+      ],
+      "provider": "deepseek-ai"
+    }
+  },
+  {
+    "id": "eb5ae69b-30b8-4ee5-943b-735335599def",
+    "entity_type": "News",
+    "name": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+    "description": "OpenRouter's CEO recently described the startup as Stripe for AI.",
+    "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b",
+    "categories": [
+      "Industry News"
+    ],
+    "source": {
+      "name": "TechCrunch AI RSS",
+      "url": "https://techcrunch.com"
+    },
+    "metadata": {}
+  },
+  {
+    "id": "48224d71-88c1-4a75-818a-4403e9e5b9c9",
+    "entity_type": "News",
+    "name": "Why people aren\u2019t buying Mark Zuckerberg\u2019s AI future",
+    "description": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg\u2019s vision.",
+    "url": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future",
+    "categories": [
+      "Industry News"
+    ],
+    "source": {
+      "name": "TechCrunch AI RSS",
+      "url": "https://techcrunch.com"
+    },
+    "metadata": {}
+  },
+  {
+    "id": "f287c5b0-9c60-40c2-be6d-bb9a07360054",
+    "entity_type": "News",
+    "name": "Anthropic CEO says AI backlash is \u2018fundamentally a crisis of trust\u2019",
+    "description": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
+    "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust",
+    "categories": [
+      "Industry News"
+    ],
+    "source": {
+      "name": "TechCrunch AI RSS",
+      "url": "https://techcrunch.com"
+    },
+    "metadata": {}
+  },
+  {
+    "id": "09a92917-b2bd-4cca-b707-0b76d1f59161",
+    "entity_type": "News",
+    "name": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+    "description": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
+    "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery",
+    "categories": [
+      "Industry News"
+    ],
+    "source": {
+      "name": "TechCrunch AI RSS",
+      "url": "https://techcrunch.com"
+    },
+    "metadata": {}
+  },
+  {
+    "id": "13cea006-26fb-4899-a359-57dcd1dbcc75",
+    "entity_type": "News",
+    "name": "Anthropic shares more details about how Claude\u2019s new watermarks will work",
+    "description": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
+    "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work",
+    "categories": [
+      "Industry News"
+    ],
+    "source": {
+      "name": "TechCrunch AI RSS",
+      "url": "https://techcrunch.com"
+    },
+    "metadata": {}
+  },
+  {
+    "id": "947cff2e-8ba5-48a5-b1bc-2551dd45d60a",
+    "entity_type": "News",
+    "name": "SpaceX officially closes its Cursor acquisition",
+    "description": "AI coding startup Cursor is now officially a part of SpaceX.",
+    "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition",
+    "categories": [
+      "Industry News"
+    ],
+    "source": {
+      "name": "TechCrunch AI RSS",
+      "url": "https://techcrunch.com"
+    },
+    "metadata": {}
+  },
+  {
+    "id": "511f4137-d2e7-4329-a404-93d7925549ee",
+    "entity_type": "News",
+    "name": "Google will now allow users to remove visible watermark from its AI generations",
+    "description": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
+    "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations",
+    "categories": [
+      "Industry News"
+    ],
+    "source": {
+      "name": "TechCrunch AI RSS",
+      "url": "https://techcrunch.com"
+    },
+    "metadata": {}
+  },
+  {
+    "id": "b6a9681a-2b27-4612-abe2-83323cbcc719",
+    "entity_type": "News",
+    "name": "Does Mark Zuckerberg really believe AI is \u2018for everyone\u2019?",
+    "description": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware \u2014 a contrast to Muse Spark, the company\u2019s more powerful model that stays locked behind its own APIs. The release landed alongside a letter from Mark Zuckerberg arguing AI should be \u201cfor everyone\u201d rather than controlled by a handful of labs, but as Equity\u2019s [\u2026]",
+    "url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone",
+    "categories": [
+      "Industry News"
+    ],
+    "source": {
+      "name": "TechCrunch AI RSS",
+      "url": "https://techcrunch.com"
+    },
+    "metadata": {}
+  },
+  {
+    "id": "e3b8fbbd-8330-4597-8f37-07f20b45335a",
+    "entity_type": "News",
+    "name": "Kog is going deeper to squeeze more inference out of GPUs",
+    "description": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog.",
+    "url": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus",
+    "categories": [
+      "Industry News"
+    ],
+    "source": {
+      "name": "TechCrunch AI RSS",
+      "url": "https://techcrunch.com"
+    },
+    "metadata": {}
+  },
+  {
+    "id": "19d777f5-6fee-49ed-9695-9fb7edbfe3e9",
+    "entity_type": "News",
+    "name": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
+    "description": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers.",
+    "url": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct",
+    "categories": [
+      "Industry News"
+    ],
+    "source": {
+      "name": "TechCrunch AI RSS",
+      "url": "https://techcrunch.com"
+    },
+    "metadata": {}
+  },
+  {
+    "id": "f2ecf21b-3b27-41f8-a48a-1787398699b7",
+    "entity_type": "News",
+    "name": "Meta\u2019s\u00a0\u2018open\u2019\u00a0AI, and a $250M deal gone very wrong",
+    "description": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware \u2014 a contrast to Muse Spark, the company\u2019s more powerful model that stays locked behind its own APIs. The release landed alongside a letter from Mark Zuckerberg arguing AI should be \u201cfor everyone\u201d rather than controlled by a handful of labs, but as Equity\u2019s [\u2026]",
+    "url": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong",
+    "categories": [
+      "Industry News"
+    ],
+    "source": {
+      "name": "TechCrunch AI RSS",
+      "url": "https://techcrunch.com"
+    },
+    "metadata": {}
+  },
+  {
+    "id": "362d99d8-014f-44aa-b891-e0b3aa3f9ff8",
+    "entity_type": "News",
+    "name": "Writer introduces new AI model and upgraded harness to contain token costs",
+    "description": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.",
+    "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs",
+    "categories": [
+      "Industry News"
+    ],
+    "source": {
+      "name": "TechCrunch AI RSS",
+      "url": "https://techcrunch.com"
+    },
+    "metadata": {}
+  },
+  {
+    "id": "abf8dd78-f7ea-4847-957f-bf067002739f",
+    "entity_type": "News",
+    "name": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
+    "description": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.",
+    "url": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation",
+    "categories": [
+      "Industry News"
+    ],
+    "source": {
+      "name": "TechCrunch AI RSS",
+      "url": "https://techcrunch.com"
+    },
+    "metadata": {}
+  },
+  {
+    "id": "7f13585e-3b5d-493e-87cf-e6b7964c5904",
+    "entity_type": "News",
+    "name": "OpenAI introduces \u2018Ultrafast,\u2019 a new mode that makes GPT-5.6 Sol work at 14x the speed",
+    "description": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
+    "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed",
+    "categories": [
+      "Industry News"
+    ],
+    "source": {
+      "name": "TechCrunch AI RSS",
+      "url": "https://techcrunch.com"
+    },
+    "metadata": {}
+  },
+  {
+    "id": "60debb53-db16-4515-aa7c-3d07cea6e6e0",
+    "entity_type": "News",
+    "name": "IBM partners with OpenAI to bolster enterprise AI push",
+    "description": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal.",
+    "url": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push",
+    "categories": [
+      "Industry News"
+    ],
+    "source": {
+      "name": "TechCrunch AI RSS",
+      "url": "https://techcrunch.com"
+    },
+    "metadata": {}
+  },
+  {
+    "id": "c71b34a5-ef55-44f2-8073-6e20b2f014b8",
+    "entity_type": "News",
+    "name": "Anthropic set AI agents loose on the same task. They started a turf war.",
+    "description": "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today\u2019s safety tests capture the risks of multi-agent systems.",
+    "url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war",
+    "categories": [
+      "Industry News"
+    ],
+    "source": {
+      "name": "TechCrunch AI RSS",
+      "url": "https://techcrunch.com"
+    },
+    "metadata": {}
+  },
+  {
+    "id": "26a33b83-bc0a-487d-9461-c9972dd478df",
+    "entity_type": "News",
+    "name": "OpenAI hires new CRO as executive shake-up continues",
+    "description": "OpenAI has replaced chief revenue officer Denise Dresser after just nine months on the job, tapping Wiz president and chief operating officer Dali Rajic to take on frontier lab's top sales job.",
+    "url": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues",
+    "categories": [
+      "Industry News"
+    ],
+    "source": {
+      "name": "TechCrunch AI RSS",
+      "url": "https://techcrunch.com"
+    },
+    "metadata": {}
+  },
+  {
+    "id": "0d77748f-102f-4b95-b3d1-51e943bf04b5",
+    "entity_type": "News",
+    "name": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
+    "description": "Microsoft is simplifying Copilot by combining its consumer and business apps, and dropping AI-generated podcasts, Group Chats, Deep Research, and its Mico character.",
+    "url": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps",
+    "categories": [
+      "Industry News"
+    ],
+    "source": {
+      "name": "TechCrunch AI RSS",
+      "url": "https://techcrunch.com"
+    },
+    "metadata": {}
+  },
+  {
+    "id": "4101e2f3-6e48-4bfe-87a8-76c23f39804f",
+    "entity_type": "News",
+    "name": "Nvidia\u2019s new $500B plan is risky but brilliant, especially for aging GPUs",
+    "description": "Nvidia has a plan to make sure its GPUs won't lose value. It wants to convince a new crop of financiers to keep lending for AI buildouts.",
+    "url": "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus",
+    "categories": [
+      "Industry News"
+    ],
+    "source": {
+      "name": "TechCrunch AI RSS",
+      "url": "https://techcrunch.com"
+    },
+    "metadata": {}
+  },
+  {
+    "id": "77af70ca-df92-4b82-a545-65d303077e77",
+    "entity_type": "News",
+    "name": "Apple in talks to pay publishers to provide Siri with current news: report",
+    "description": "The tech giant has considered a nine-figure budget for the payments, according to the WSJ.",
+    "url": "https://techcrunch.com/2026/08/13/apple-in-talks-to-pay-publishers-to-provide-siri-with-current-news-report",
+    "categories": [
+      "Industry News"
+    ],
+    "source": {
+      "name": "TechCrunch AI RSS",
+      "url": "https://techcrunch.com"
+    },
+    "metadata": {}
+  }
+]
